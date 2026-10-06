@@ -91,9 +91,12 @@ curl -s -F "file=@3800-h-tooltips.html;type=text/html" -F "profile=css3" -F "out
   inicial e sem as marcas de nota de rodapé.
 - Em referências entre partes, o rótulo leva a parte (“Part I, Prop. XI. …”).
 - **Posição (decisão do usuário em 06/10/2026):** o pop-up entra no fluxo
-  logo depois da referência (`display: block`, sem `position: absolute`) e
-  empurra o resto do parágrafo para baixo, em vez de cobrir o texto. Com
-  isso o `p { position: relative }` saiu. Descrito no
+  e empurra as linhas seguintes para baixo, em vez de cobrir o texto. É
+  um float de largura total (`float: left; width: 100%`), que fica abaixo
+  da linha da referência sem alterá-la; o `p::after { clear: both }`
+  segura o pop-up da última linha dentro do parágrafo. A primeira
+  tentativa (`display: block`) piscava no hover: a linha cortada perdia a
+  justificação e o link saía de baixo do ponteiro. Descrito no
   `TOOLTIP_TEST_REPORT.md` §3.10; a amostra da variante D em
   `prototypes/` continua com a versão sobreposta.
 - **Alvos longos (decisão do usuário em 05/10/2026):**
