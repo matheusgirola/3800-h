@@ -1,0 +1,160 @@
+para,source,source_label,text,occ,target,target_label,rule,flag,note,start,end,context
+19,p1-prop1-proof,"Prop. I, Proof",Deff. iii.,1,p1-def3,Def. III,pattern,ok,,26,36,Proof.—This is clear from Deff. iii. and v.
+19,p1-prop1-proof,"Prop. I, Proof",v.,1,p1-def5,Def. V,pattern,ok,,41,43,Proof.—This is clear from Deff. iii. and v.
+21,p1-prop2-proof,"Prop. II, Proof",Def. iii.,1,p1-def3,Def. III,pattern,ok,,25,34,Proof.—Also evident from Def. iii. For each must exist in itself
+23,p1-prop3-proof,"Prop. III, Proof",Ax. v.,1,p1-ax5,Ax. V,pattern,ok,,104,110," one cannot be apprehended by means of the other (Ax. v.), and, therefore, one cannot "
+23,p1-prop3-proof,"Prop. III, Proof",Ax. iv.,1,p1-ax4,Ax. IV,pattern,ok,,167,174," therefore, one cannot be the cause of the other (Ax. iv.). Q.E.D."
+25,p1-prop4-proof,"Prop. IV, Proof",Ax. i.,1,p1-ax1,Ax. I,pattern,ok,,78,84,"ts, exists either in itself or in something else (Ax. i.),—that is (by Deff. iii. and "
+25,p1-prop4-proof,"Prop. IV, Proof",Deff. iii.,1,p1-def3,Def. III,pattern,ok,,99,109,"itself or in something else (Ax. i.),—that is (by Deff. iii. and v.), nothing is granted i"
+25,p1-prop4-proof,"Prop. IV, Proof",v.,1,p1-def5,Def. V,pattern,ok,,114,116,"mething else (Ax. i.),—that is (by Deff. iii. and v.), nothing is granted in addit"
+25,p1-prop4-proof,"Prop. IV, Proof",Ax. iv.,1,p1-ax4,Ax. IV,pattern,ok,,380,387,"r, except the substances, or, in other words (see Ax. iv.), their attributes and modifi"
+27,p1-prop5-proof,"Prop. V, Proof",Prop. iv.,1,p1-prop4,Prop. IV,pattern,ok,,188,197,"tes, or by the difference of their modifications (Prop. iv.). If only by the difference o"
+27,p1-prop5-proof,"Prop. V, Proof",Prop. i.,1,p1-prop1,Prop. I,pattern,ok,,428,436,"ubstance is naturally prior to its modifications (Prop. i.),—it follows that setting the"
+27,p1-prop5-proof,"Prop. V, Proof",Deff. iii.,1,p1-def3,Def. III,pattern,ok,,541,551," considering substance in itself, that is truly, (Deff. iii. and vi.), there cannot be con"
+27,p1-prop5-proof,"Prop. V, Proof",vi.,1,p1-def6,Def. VI,pattern,ok,,556,559,"bstance in itself, that is truly, (Deff. iii. and vi.), there cannot be conceived o"
+27,p1-prop5-proof,"Prop. V, Proof",Prop. iv.,2,p1-prop4,Prop. IV,pattern,ok,,638,647,"one substance different from another,—that is (by Prop. iv.), there cannot be granted sev"
+29,p1-prop6-proof,"Prop. VI, Proof",Prop. ii.,1,p1-prop2,Prop. II,pattern,ok,,151,160,"te, i.e. which have anything common to them both (Prop. ii.), and, therefore (Prop. iii.)"
+29,p1-prop6-proof,"Prop. VI, Proof",Prop. iii.,1,p1-prop3,Prop. III,pattern,ok,,179,189," common to them both (Prop. ii.), and, therefore (Prop. iii.), one cannot be the cause of "
+30,p1-prop6-cor,"Prop. VI, Coroll.",Ax. i.,1,p1-ax1,Ax. I,pattern,ok,,193,199,bstances and their modifications (as appears from Ax. i. and Deff. iii. and v.). Now (
+30,p1-prop6-cor,"Prop. VI, Coroll.",Deff. iii.,1,p1-def3,Def. III,pattern,ok,,204,214,d their modifications (as appears from Ax. i. and Deff. iii. and v.). Now (by the last Pro
+30,p1-prop6-cor,"Prop. VI, Coroll.",v.,1,p1-def5,Def. V,pattern,ok,,219,221,ations (as appears from Ax. i. and Deff. iii. and v.). Now (by the last Prop.) sub
+30,p1-prop6-cor,"Prop. VI, Coroll.",the last Prop.,1,p1-prop6,Prop. VI,manual,ok,in the corollary of Prop. vi.: the Prop. just proved (as in the sample),232,246,pears from Ax. i. and Deff. iii. and v.). Now (by the last Prop.) substance cannot be produced
+30,p1-prop6-cor,"Prop. VI, Coroll.",Ax. iv.,1,p1-ax4,Ax. IV,pattern,ok,,558,565,"of it would depend on the knowledge of its cause (Ax. iv.), and (by Def. iii.) it would"
+30,p1-prop6-cor,"Prop. VI, Coroll.",Def. iii.,1,p1-def3,Def. III,pattern,ok,,576,585," on the knowledge of its cause (Ax. iv.), and (by Def. iii.) it would itself not be subst"
+32,p1-prop7-proof,"Prop. VII, Proof","Corollary, Prop vi.",1,p1-prop6-cor,"Prop. VI, Coroll.",pattern,ok,,58,77,"ubstance cannot be produced by anything external (Corollary, Prop vi.), it must, therefore, be its "
+34,p1-prop8-proof,"Prop. VIII, Proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,107,117,"attribute, and existence follows from its nature (Prop. vii.); its nature, therefore, invo"
+34,p1-prop8-proof,"Prop. VIII, Proof",Def. ii.,1,p1-def2,Def. II,pattern,ok,,230,238,"or infinite. It does not exist as finite, for (by Def. ii.) it would then be limited by "
+34,p1-prop8-proof,"Prop. VIII, Proof",Prop. vii.,2,p1-prop7,Prop. VII,pattern,ok,,337,347,"he same kind, which would also necessarily exist (Prop. vii.); and there would be two subs"
+34,p1-prop8-proof,"Prop. VIII, Proof",Prop. v.,1,p1-prop5,Prop. V,pattern,ok,,430,438,"ces with an identical attribute, which is absurd (Prop. v.). It therefore exists as infi"
+35,p1-prop8-note1,"Prop. VIII, Note I",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,153,163,"tion of the given nature, it follows (solely from Prop. vii.) that every substance is nece"
+36,p1-prop8-note2,"Prop. VIII, Note II",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,183,193,"rimary causes, to comprehend the demonstration of Prop. vii.: for such persons make no dis"
+36,p1-prop8-note2,"Prop. VIII, Note II",Prop. vii.,2,p1-prop7,Prop. VII,pattern,ok,,969,979,"ance, they would have no doubt about the truth of Prop. vii. In fact, this proposition wou"
+41,p1-prop8-note2,"Prop. VIII, Note II","notes ii., iii.",1,,,manual,skip,"refers to the numbered points 2 and 3 inside this same note, not to notes of other propositions",1284,1299,"cible. But from its definition (as we have shown, notes ii., iii.), we cannot infer the existen"
+42,p1-prop9,Prop. IX,Def. iv.,1,p1-def4,Def. IV,pattern,ok,,91,99,"ng has, the greater the number of its attributes (Def. iv.)."
+44,p1-prop10-proof,"Prop. X, Proof",Def. iv.,1,p1-def4,Def. IV,pattern,ok,,101,109,"ceives of substance, as constituting its essence (Def. iv.), and, therefore, must be con"
+44,p1-prop10-proof,"Prop. X, Proof",Def. iii.,1,p1-def3,Def. III,pattern,ok,,162,171,"and, therefore, must be conceived through itself (Def. iii.). Q.E.D."
+48,p1-prop11-proof,"Prop. XI, Proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,129,139,his essence does not involve existence. But this (Prop. vii.) is absurd. Therefore God nec
+49,p1-prop11-proof2,"Prop. XI, Another proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,717,727,", inasmuch as its nature involves existence. (See Prop. vii.)"
+51,p1-prop11-proof2,"Prop. XI, Another proof",Prop. ii.,1,p1-prop2,Prop. II,pattern,ok,,508,517," nature could have nothing in common with God (by Prop. ii.), and therefore would be unab"
+53,p1-prop11-proof3,"Prop. XI, Another proof",Axiom. i.,1,p1-ax1,Ax. I,pattern,ok,,495,504,r in something else which necessarily exists (see Axiom. i. and Prop. vii.). Therefore a 
+53,p1-prop11-proof3,"Prop. XI, Another proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,509,519, else which necessarily exists (see Axiom. i. and Prop. vii.). Therefore a being absolutel
+53,p1-prop11-proof3,"Prop. XI, Another proof",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,581,589," a being absolutely infinite—in other words, God (Def. vi.)—necessarily exists. Q.E.D."
+55,p1-prop11-note,"Prop. XI, Note",Prop. vi.,1,p1-prop6,Prop. VI,pattern,ok,,396,405,"l to themselves, but only of substances which (by Prop. vi.) cannot be produced by any ex"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. viii.,1,p1-prop8,Prop. VIII,pattern,ok,,159,170,"stance, or they will not. If the former, then (by Prop. viii.) each part will necessarily b"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. vi.,1,p1-prop6,Prop. VI,pattern,ok,,220,229,") each part will necessarily be infinite, and (by Prop. vi.) self—caused, and (by Prop. v"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. v.,1,p1-prop5,Prop. V,pattern,ok,,252,260,"infinite, and (by Prop. vi.) self—caused, and (by Prop. v.) will perforce consist of a d"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. vi.,2,p1-prop6,Prop. VI,pattern,ok,,400,409,"s could be formed out of one substance, which (by Prop. vi.) is absurd. Moreover, the par"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. ii.,1,p1-prop2,Prop. II,pattern,ok,,446,455,"(by Prop. vi.) is absurd. Moreover, the parts (by Prop. ii.) would have nothing in common"
+57,p1-prop12-proof,"Prop. XII, Proof",Def. iv.,1,p1-def4,Def. IV,pattern,ok,,522,530,"ing in common with their whole, and the whole (by Def. iv. and Prop. x.) could both exis"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. x.,1,p1-prop10,Prop. X,pattern,ok,,535,543," with their whole, and the whole (by Def. iv. and Prop. x.) could both exist and be conc"
+57,p1-prop12-proof,"Prop. XII, Proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,871,881,"of substance, and would cease to exist, which (by Prop. vii.) is absurd."
+59,p1-prop13-proof,"Prop. XIII, Proof",Prop. v.,1,p1-prop5,Prop. V,pattern,ok,,230,238," several substances of the same nature, which (by Prop. v.) is absurd. If the latter, th"
+59,p1-prop13-proof,"Prop. XIII, Proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,275,285," (by Prop. v.) is absurd. If the latter, then (by Prop. vii.) substance absolutely infinit"
+59,p1-prop13-proof,"Prop. XIII, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,349,358,"solutely infinite could cease to exist, which (by Prop. xi.) is also absurd."
+61,p1-prop13-note,"Prop. XIII, Note",Prop. viii,1,p1-prop8,Prop. VIII,pattern,ok,,231,241,"an be understood than finite substance, which (by Prop. viii) involves a manifest contradi"
+63,p1-prop14-proof,"Prop. XIV, Proof",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,125,133,"resses the essence of substance can be denied (by Def. vi.), and he necessarily exists ("
+63,p1-prop14-proof,"Prop. XIV, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,166,175,"nied (by Def. vi.), and he necessarily exists (by Prop. xi.); if any substance besides Go"
+63,p1-prop14-proof,"Prop. XIV, Proof",Prop. v.,1,p1-prop5,Prop. V,pattern,ok,,348,356,"es with the same attribute would exist, which (by Prop. v.) is absurd; therefore, beside"
+64,p1-prop14-cor1,"Prop. XIV, Coroll. I",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,60,68,"I.—Clearly, therefore: 1. God is one, that is (by Def. vi.) only one substance can be gr"
+64,p1-prop14-cor1,"Prop. XIV, Coroll. I",note to Prop. x.,1,p1-prop10-note,"Prop. X, Note",pattern,ok,,201,217,"ly infinite, as we have already indicated (in the note to Prop. x.)."
+65,p1-prop14-cor2,"Prop. XIV, Coroll. II",Ax. i.,1,p1-ax1,Ax. I,pattern,ok,,92,98,n and thought are either attributes of God or (by Ax. i.) accidents (affectiones) of t
+67,p1-prop15-proof,"Prop. XV, Proof",Prop. xiv.,1,p1-prop14,Prop. XIV,pattern,ok,,68,78,", no substance is granted or can be conceived (by Prop. xiv.), that is (by Def. iii.) noth"
+67,p1-prop15-proof,"Prop. XV, Proof",Def. iii.,1,p1-def3,Def. III,pattern,ok,,93,102," or can be conceived (by Prop. xiv.), that is (by Def. iii.) nothing which is in itself a"
+67,p1-prop15-proof,"Prop. XV, Proof",Def. v.,1,p1-def5,Def. V,pattern,ok,,178,185,"lf and is conceived through itself. But modes (by Def. v.) can neither be, nor be conce"
+67,p1-prop15-proof,"Prop. XV, Proof",Ax. i.,1,p1-ax1,Ax. I,pattern,ok,,387,393,"ces and modes form the sum total of existence (by Ax. i.), therefore, without God noth"
+68,p1-prop15-note,"Prop. XV, Note",Coroll. Prop. vi,1,p1-prop6-cor,"Prop. VI, Coroll.",pattern,ok,,981,997,"iciently clearly, at any rate in my own judgment (Coroll. Prop. vi, and note 2, Prop. viii.), th"
+68,p1-prop15-note,"Prop. XV, Note","note 2, Prop. viii.",1,p1-prop8-note2,"Prop. VIII, Note II",pattern,ok,,1003,1022,"ny rate in my own judgment (Coroll. Prop. vi, and note 2, Prop. viii.), that no substance can be pr"
+68,p1-prop15-note,"Prop. XV, Note",Prop. xiv.,1,p1-prop14,Prop. XIV,pattern,ok,,1123,1133,"anything other than itself. Further, I showed (in Prop. xiv.), that besides God no substan"
+73,p1-prop15-note,"Prop. XV, Note",Prop. xii.,1,p1-prop12,Prop. XII,pattern,ok,,410,420,"sed of parts, and such a hypothesis I have shown (Prop. xii., and Coroll. Prop. xiii.) to "
+73,p1-prop15-note,"Prop. XV, Note",Coroll. Prop. xiii.,1,p1-prop13-cor,"Prop. XIII, Coroll.",pattern,ok,,426,445,"d such a hypothesis I have shown (Prop. xii., and Coroll. Prop. xiii.) to be absurd. Moreover, anyo"
+73,p1-prop15-note,"Prop. XV, Note",Prop. xii.,2,p1-prop12,Prop. XII,pattern,ok,,1010,1020,. This is exactly what we have already proved (in Prop. xii.). Wherefore the weapon which 
+73,p1-prop15-note,"Prop. XV, Note",Props. viii.,1,p1-prop8,Prop. VIII,pattern,ok,,1577,1589,"y be conceived as infinite, one, and indivisible (Props. viii., v., xii.) they assert, in or"
+73,p1-prop15-note,"Prop. XV, Note",v.,1,p1-prop5,Prop. V,pattern,ok,,1591,1593," as infinite, one, and indivisible (Props. viii., v., xii.) they assert, in order "
+73,p1-prop15-note,"Prop. XV, Note",xii.,1,p1-prop12,Prop. XII,pattern,ok,,1595,1599,"infinite, one, and indivisible (Props. viii., v., xii.) they assert, in order to pro"
+76,p1-prop15-note,"Prop. XV, Note",Prop. xiv.,2,p1-prop14,Prop. XIV,pattern,ok,,318,328,"of the divine nature, inasmuch as besides God (by Prop. xiv.) no substance can be granted,"
+78,p1-prop16-proof,"Prop. XVI, Proof",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,495,503,"ine nature has absolutely infinite attributes (by Def. vi.), of which each expresses inf"
+83,p1-prop17-proof,"Prop. XVII, Proof",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,30,40,"Proof.—We have just shown (in Prop. xvi.), that solely from the necess"
+83,p1-prop17-proof,"Prop. XVII, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,256,265," in an infinite number of ways; and we proved (in Prop. xv.), that without God nothing ca"
+85,p1-prop17-cor2,"Prop. XVII, Coroll. II",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,123,132,"ne exists by the sole necessity of his nature (by Prop. xi. and Prop. xiv., Coroll. i.), "
+85,p1-prop17-cor2,"Prop. XVII, Coroll. II","Prop. xiv., Coroll. i.",1,p1-prop14-cor1,"Prop. XIV, Coroll. I",pattern,ok,,137,159,"he sole necessity of his nature (by Prop. xi. and Prop. xiv., Coroll. i.), and acts by the sole necess"
+85,p1-prop17-cor2,"Prop. XVII, Coroll. II",Def. vii.,1,p1-def7,Def. VII,pattern,ok,,233,242,"necessity of his own nature, wherefore God is (by Def. vii.) the sole free cause. Q.E.D."
+87,p1-prop17-note,"Prop. XVII, Note",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,1023,1033,"er, I think I have shown sufficiently clearly (by Prop. xvi.), that from God's supreme pow"
+88,p1-prop17-note,"Prop. XVII, Note","Prop. xvi., Coroll. i.",1,p1-prop16-cor1,"Prop. XVI, Coroll. I",pattern,ok,,866,888,"s prior to all things by reason of his causality (Prop. xvi., Coroll. i.). On the contrary, the truth "
+91,p1-prop18-proof,"Prop. XVIII, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,79,88,"are in God, and must be conceived through God (by Prop. xv.), therefore (by Prop. xvi., C"
+91,p1-prop18-proof,"Prop. XVIII, Proof","Prop. xvi., Coroll. i.",1,p1-prop16-cor1,"Prop. XVI, Coroll. I",pattern,ok,,105,127,"nceived through God (by Prop. xv.), therefore (by Prop. xvi., Coroll. i.) God is the cause of those th"
+91,p1-prop18-proof,"Prop. XVIII, Proof",Prop. xiv.,1,p1-prop14,Prop. XIV,pattern,ok,,256,266,"urther, besides God there can be no substance (by Prop. xiv.), that is nothing in itself e"
+93,p1-prop19-proof,"Prop. XIX, Proof",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,15,23,"Proof.—God (by Def. vi.) is substance, which (by Prop"
+93,p1-prop19-proof,"Prop. XIX, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,49,58,"Proof.—God (by Def. vi.) is substance, which (by Prop. xi.) necessarily exists, that is "
+93,p1-prop19-proof,"Prop. XIX, Proof",Prop. vii.,1,p1-prop7,Prop. VII,pattern,ok,,92,102,"ch (by Prop. xi.) necessarily exists, that is (by Prop. vii.) existence appertains to its "
+93,p1-prop19-proof,"Prop. XIX, Proof",Def. viii.,1,p1-def8,Def. VIII,pattern,ok,,227,237,"rom its definition; therefore, God is eternal (by Def. viii.). Further, by the attributes "
+93,p1-prop19-proof,"Prop. XIX, Proof",Def. iv.,1,p1-def4,Def. IV,pattern,ok,,308,316,tributes of God we must understand that which (by Def. iv.) expresses the essence of the
+93,p1-prop19-proof,"Prop. XIX, Proof",Prop. vii.,2,p1-prop7,Prop. VII,pattern,ok,,559,569,"e nature of substance (as I have already shown in Prop. vii.); therefore, eternity must ap"
+94,p1-prop19-note,"Prop. XIX, Note",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,68,77,tion is also evident from the manner in which (in Prop. xi.) I demonstrated the existence
+94,p1-prop19-note,"Prop. XIX, Note",Prop. xix.,1,,,manual,skip,"Prop. xix. of Spinoza's Principles of the Cartesian Philosophy, not of the Ethics",236,246,"ike his essence, is an eternal truth. Further (in Prop. xix. of my ""Principles of the Cart"
+96,p1-prop20-proof,"Prop. XX, Proof",the last Prop.,1,p1-prop19,Prop. XIX,last-prop,ok,,15,29,Proof.—God (by the last Prop.) and all his attributes are e
+96,p1-prop20-proof,"Prop. XX, Proof",Def. viii.,1,p1-def8,Def. VIII,pattern,ok,,79,89,") and all his attributes are eternal, that is (by Def. viii.) each of his attributes expre"
+100,p1-prop21-proof,"Prop. XXI, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,414,423,"sed to be an attribute of God, is necessarily (by Prop. xi.) in its nature infinite. But,"
+100,p1-prop21-proof,"Prop. XXI, Proof",Def. ii.,1,p1-def2,Def. II,pattern,ok,,600,608,"ed as finite, unless it be limited by thought (by Def. ii.); but it is not limited by th"
+100,p1-prop21-proof,"Prop. XXI, Proof",Prop. xi.,2,p1-prop11,Prop. XI,pattern,ok,,855,864,"nstituted the idea of God, which nevertheless (by Prop. xi.) must necessarily exist."
+103,p1-prop21-proof,"Prop. XXI, Proof",Prop. xi.,3,p1-prop11,Prop. XI,pattern,ok,,76,85,"bute of God, must necessarily exist unchanged (by Prop. xi., and Prop. xx., Coroll. ii.);"
+103,p1-prop21-proof,"Prop. XXI, Proof","Prop. xx., Coroll. ii.",1,p1-prop20-cor2,"Prop. XX, Coroll. II",pattern,ok,,91,113,"st necessarily exist unchanged (by Prop. xi., and Prop. xx., Coroll. ii.); and beyond the limits of th"
+107,p1-prop23-proof,"Prop. XXIII, Proof",Def. v.,1,p1-def5,Def. V,pattern,ok,,76,83,"mething else, through which it must be conceived (Def. v.), that is (Prop. xv.), it exi"
+107,p1-prop23-proof,"Prop. XXIII, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,95,104,"gh which it must be conceived (Def. v.), that is (Prop. xv.), it exists solely in God, an"
+107,p1-prop23-proof,"Prop. XXIII, Proof",Def. viii.,1,p1-def8,Def. VIII,pattern,ok,,432,442,"inity and necessity of existence, in other words (Def. viii.) eternity; that is, in so far"
+107,p1-prop23-proof,"Prop. XXIII, Proof",Prop. xxi.,1,p1-prop21,Prop. XXI,pattern,ok,,645,655,"ure of some attribute of God, either immediately (Prop. xxi.) or through the means of some"
+107,p1-prop23-proof,"Prop. XXIII, Proof",Prop. xxii.,1,p1-prop22,Prop. XXII,pattern,ok,,774,785,"bsolute nature of the said attribute; that is (by Prop. xxii.), which exists necessarily an"
+109,p1-prop24-proof,"Prop. XXIV, Proof",Def. i.,1,p1-def1,Def. I,pattern,ok,,40,47,Proof.—This proposition is evident from Def. i. For that of which the nature 
+110,p1-prop24-cor,"Prop. XXIV, Coroll.",Prop. xiv. Coroll. i.,1,p1-prop14-cor1,"Prop. XIV, Coroll. I",pattern,ok,,511,532,asmuch as to him alone does existence appertain. (Prop. xiv. Coroll. i.) Q.E.D.
+112,p1-prop25-proof,"Prop. XXV, Proof",Ax. iv.,1,p1-ax4,Ax. IV,pattern,ok,,122,129,ings; and therefore the essence of things can (by Ax. iv.) be conceived without God. Th
+112,p1-prop25-proof,"Prop. XXV, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,166,175,"n (by Ax. iv.) be conceived without God. This (by Prop. xv.) is absurd. Therefore, God is"
+113,p1-prop25-note,"Prop. XXV, Note",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,49,59,Note.—This proposition follows more clearly from Prop. xvi. For it is evident thereby tha
+114,p1-prop25-cor,"Prop. XXV, Coroll.",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,194,203,fixed and definite manner. The proof appears from Prop. xv. and Def. v.
+114,p1-prop25-cor,"Prop. XXV, Coroll.",Def. v.,1,p1-def5,Def. V,pattern,ok,,208,215,nite manner. The proof appears from Prop. xv. and Def. v.
+116,p1-prop26-proof,"Prop. XXVI, Proof",Props. xxv.,1,p1-prop25,Prop. XXV,pattern,ok,,248,259,e necessity of his nature is the efficient cause (Props. xxv. and xvi.); this is our first 
+116,p1-prop26-proof,"Prop. XXVI, Proof",xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,264,268,is nature is the efficient cause (Props. xxv. and xvi.); this is our first point. Ou
+120,p1-prop28-proof,"Prop. XXVIII, Proof",Prop. xxvi.,1,p1-prop26,Prop. XXVI,pattern,ok,,88,99,"ist and act, has been thus conditioned by God (by Prop. xxvi. and Prop. xxiv., Coroll.)."
+120,p1-prop28-proof,"Prop. XXVIII, Proof","Prop. xxiv., Coroll.",1,p1-prop24-cor,"Prop. XXIV, Coroll.",pattern,ok,,104,124," been thus conditioned by God (by Prop. xxvi. and Prop. xxiv., Coroll.)."
+121,p1-prop28-proof,"Prop. XXVIII, Proof",Prop. xxi.,1,p1-prop21,Prop. XXI,pattern,ok,,226,236," any attribute of God is infinite and eternal (by Prop. xxi.). It must, therefore, follow "
+121,p1-prop28-proof,"Prop. XXVIII, Proof",Ax. i.,1,p1-ax1,Ax. I,pattern,ok,,428,434," and modes make up the sum total of existence (by Ax. i. and Def. iii., v.), while mod"
+121,p1-prop28-proof,"Prop. XXVIII, Proof",Def. iii.,1,p1-def3,Def. III,pattern,ok,,439,448,"make up the sum total of existence (by Ax. i. and Def. iii., v.), while modes are merely "
+121,p1-prop28-proof,"Prop. XXVIII, Proof",v.,1,p1-def5,Def. V,pattern,ok,,450,452," sum total of existence (by Ax. i. and Def. iii., v.), while modes are merely modi"
+122,p1-prop28-note,"Prop. XXVIII, Note",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,487,496,not either exist or be conceived without a cause (Prop. xv. and Prop. xxiv. Coroll.). 2. 
+122,p1-prop28-note,"Prop. XXVIII, Note",Prop. xxiv. Coroll.,1,p1-prop24-cor,"Prop. XXIV, Coroll.",pattern,ok,,501,520,st or be conceived without a cause (Prop. xv. and Prop. xxiv. Coroll.). 2. That God cannot properly
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,33,42,"Proof.—Whatsoever is, is in God (Prop. xv.). But God cannot be called a "
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,98,107," God cannot be called a thing contingent. For (by Prop. xi.) he exists necessarily, and n"
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,246,256,"llow therefrom necessarily, and not contingently (Prop. xvi.); and they thus follow, wheth"
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xxvii.,1,p1-prop27,Prop. XXVII,pattern,ok,,391,403," we consider it as in any way conditioned to act (Prop. xxvii.). Further, God is not only th"
+124,p1-prop29-proof,"Prop. XXIX, Proof","Prop. xxiv, Coroll.",1,p1-prop24-cor,"Prop. XXIV, Coroll.",pattern,ok,,492,511,"f these modes, in so far as they simply exist (by Prop. xxiv, Coroll.), but also in so far as they "
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xxvi.,1,p1-prop26,Prop. XXVI,pattern,ok,,609,620,conditioned for operating in a particular manner (Prop. xxvi.). If they be not conditioned 
+124,p1-prop29-proof,"Prop. XXIX, Proof",Prop. xxvi.,2,p1-prop26,Prop. XXVI,pattern,ok,,658,669,"(Prop. xxvi.). If they be not conditioned by God (Prop. xxvi.), it is impossible, and not c"
+125,p1-prop29-note,"Prop. XXIX, Note","Prop. xiv., Coroll. i.",1,p1-prop14-cor1,"Prop. XIV, Coroll. I",pattern,ok,,500,522,"ess eternal and infinite essence, in other words (Prop. xiv., Coroll. i., and Prop. xvii., Coroll. ii)"
+125,p1-prop29-note,"Prop. XXIX, Note","Prop. xvii., Coroll. ii",1,p1-prop17-cor2,"Prop. XVII, Coroll. II",pattern,ok,,528,551,"ence, in other words (Prop. xiv., Coroll. i., and Prop. xvii., Coroll. ii) God, in so far as he is cons"
+128,p1-prop30-proof,"Prop. XXX, Proof",Ax. vi.,1,p1-ax6,Ax. VI,pattern,ok,,47,54,"Proof.—A true idea must agree with its object (Ax. vi.); in other words (obviously),"
+128,p1-prop30-proof,"Prop. XXX, Proof","Prop. xiv., Coroll. i.",1,p1-prop14-cor1,"Prop. XIV, Coroll. I",pattern,ok,,201,223,"cessarily be granted in nature. But in nature (by Prop. xiv., Coroll. i.) there is no substance save G"
+128,p1-prop30-proof,"Prop. XXX, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,291,300,"tance save God, nor any modifications save those (Prop. xv.) which are in God, and cannot"
+130,p1-prop31-proof,"Prop. XXXI, Proof",Def. v.,1,p1-def5,Def. V,pattern,ok,,176,183," modes, such as love, desire, &c., and therefore (Def. v.) requiring to be conceived th"
+130,p1-prop31-proof,"Prop. XXXI, Proof",Prop. xv.,1,p1-prop15,Prop. XV,pattern,ok,,249,258,"e conceived through absolute thought. It must (by Prop. xv. and Def. vi.), through some a"
+130,p1-prop31-proof,"Prop. XXXI, Proof",Def. vi.,1,p1-def6,Def. VI,pattern,ok,,263,271,"rough absolute thought. It must (by Prop. xv. and Def. vi.), through some attribute of G"
+133,p1-prop32-proof,"Prop. XXXII, Proof",Prop. xxviii.,1,p1-prop28,Prop. XXVIII,pattern,ok,,81,94,"r mode of thinking, like intellect; therefore (by Prop. xxviii.) no volition can exist, nor b"
+133,p1-prop32-proof,"Prop. XXXII, Proof",Prop. xxiii.,1,p1-prop23,Prop. XXIII,pattern,ok,,526,538,"s the infinite and eternal essence of thought (by Prop. xxiii.). Thus, however it be conceiv"
+133,p1-prop32-proof,"Prop. XXXII, Proof",Def. vii.,1,p1-def7,Def. VII,pattern,ok,,681,690, it should be conditioned to exist and act. Thus (Def. vii.) it cannot be called a free c
+135,p1-prop32-cor2,"Prop. XXXII, Coroll. II",Prop. xxix.,1,p1-prop29,Prop. XXIX,pattern,ok,,202,213,"ural phenomena, which must be conditioned by God (Prop. xxix.) to exist and act in a partic"
+137,p1-prop33-proof,"Prop. XXXIII, Proof",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,60,70,"things necessarily follow from the nature of God (Prop. xvi.), and by the nature of God ar"
+137,p1-prop33-proof,"Prop. XXXIII, Proof",Prop. xxix.,1,p1-prop29,Prop. XXIX,pattern,ok,,152,163,"conditioned to exist and act in a particular way (Prop. xxix.). If things, therefore, could"
+137,p1-prop33-proof,"Prop. XXXIII, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,428,437, different from what it now is; and therefore (by Prop. xi.) that different nature also w
+137,p1-prop33-proof,"Prop. XXXIII, Proof","Prop. xiv., Coroll. i.",1,p1-prop14-cor1,"Prop. XIV, Coroll. I",pattern,ok,,572,594,"d have been able to be two or more Gods. This (by Prop. xiv., Coroll. i.) is absurd. Therefore things "
+142,p1-prop33-note2,"Prop. XXXIII, Note II",Def. vii.,1,p1-def7,Def. VII,pattern,ok,,215,224, God a freedom very different from that which we (Def. vii.) have deduced. They assign to
+142,p1-prop33-note2,"Prop. XXXIII, Note II",note to Prop. xvii.,1,p1-prop17-note,"Prop. XVII, Note",pattern,ok,,616,635," no need for me to repeat what I have said in the note to Prop. xvii. But, for the sake of my oppon"
+147,p1-prop34-proof,"Prop. XXXIV, Proof",Prop. xi.,1,p1-prop11,Prop. XI,pattern,ok,,98,107, God it follows that God is the cause of himself (Prop. xi.) and of all things (Prop. xvi
+147,p1-prop34-proof,"Prop. XXXIV, Proof",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,128,138,e cause of himself (Prop. xi.) and of all things (Prop. xvi. and Coroll.). Wherefore the p
+147,p1-prop34-proof,"Prop. XXXIV, Proof",Coroll.,1,p1-prop16-cor1,"Prop. XVI, Coroll. I",manual,ok,Latin: per Prop. 16 et ejus Coroll. 1 (God the efficient cause of all things),143,150,"elf (Prop. xi.) and of all things (Prop. xvi. and Coroll.). Wherefore the power of God,"
+149,p1-prop35-proof,"Prop. XXXV, Proof",the last Prop.,1,p1-prop34,Prop. XXXIV,last-prop,ok,,46,60,"Proof.—Whatsoever is in God's power, must (by the last Prop.) be comprehended in his essen"
+151,p1-prop36-proof,"Prop. XXXVI, Proof","Prop. xxv., Coroll.",1,p1-prop25-cor,"Prop. XXV, Coroll.",pattern,ok,,93,112,"ture or essence in a given conditioned manner (by Prop. xxv., Coroll.); that is, (by Prop. xxxiv.),"
+151,p1-prop36-proof,"Prop. XXXVI, Proof",Prop. xxxiv.,1,p1-prop34,Prop. XXXIV,pattern,ok,,128,140,"ned manner (by Prop. xxv., Coroll.); that is, (by Prop. xxxiv.), whatsoever exists, expresse"
+151,p1-prop36-proof,"Prop. XXXVI, Proof",Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,278,288,"cause of all things, therefore an effect must (by Prop. xvi.) necessarily follow. Q.E.D."
+154,p1-app,Appendix,Prop. xvi.,1,p1-prop16,Prop. XVI,pattern,ok,,320,330,"e shown such prejudice to be based, and also from Prop. xvi., and the Corollary of Prop. x"
+154,p1-app,Appendix,Corollary of Prop. xxxii.,1,p1-prop32-cor1,"Prop. XXXII, Coroll. I",manual,ok,Latin Appendix: Coroll. 1 Prop. 32,340,365,"ce to be based, and also from Prop. xvi., and the Corollary of Prop. xxxii., and, in fact, all those prop"
+154,p1-app,Appendix,Props. xxi.,1,p1-prop21,Prop. XXI,pattern,ok,,888,899,"se and priority as self—evident, it is plain from Props. xxi., xxii., xxiii. that the effec"
+154,p1-app,Appendix,xxii.,1,p1-prop22,Prop. XXII,pattern,ok,,901,906,"ty as self—evident, it is plain from Props. xxi., xxii., xxiii. that the effect is mo"
+154,p1-app,Appendix,xxiii.,1,p1-prop23,Prop. XXIII,pattern,ok,,908,914,"elf—evident, it is plain from Props. xxi., xxii., xxiii. that the effect is most perfe"
+164,p1-app,Appendix,Prop. xvi.,2,p1-prop16,Prop. XVI,pattern,ok,,957,967,"e by an infinite intelligence, as I have shown in Prop. xvi."

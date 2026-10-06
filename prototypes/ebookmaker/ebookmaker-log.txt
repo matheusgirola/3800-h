@@ -1,0 +1,60 @@
+﻿
+Input file: /htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html
+
+Validating your uploaded file
+/htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html
+Validation complete
+
+
+--- Starting ebookmaker processing
+EbookMaker 0.14.6
+Command: ebookmaker --verbose --validate --max-depth 3 --output-dir /htdocs/ebookmaker/cache/20261001053748 --make 'txt.utf-8' --make 'epub' --make 'epub3' --make 'kf8' --make 'kindle' --make 'html' --ebook '3800' --title 'sample_3800' --author 'spinoza' file:///htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html
+INFO:root:using an HTML5 parser
+INFO:root:No PG header marker found.
+INFO:root:No PG footer marker found.
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:picsdir.images output in 3800-images.picsdir
+INFO:root:picsdir.images completed in 0:00:00.001956
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:Plain text file /htdocs/ebookmaker/cache/20261001053748/3800-0.txt aborted due to html input
+INFO:root:txt.utf-8 output in 3800-0.txt
+INFO:root:txt.utf-8 completed in 0:00:00.001124
+INFO:root:using an HTML5 parser
+INFO:root:No PG header marker found.
+INFO:root:No PG footer marker found.
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:validating...
+INFO:root:3800-h.html validates ok.
+INFO:root:html.images output in 3800-h.html
+INFO:root:html.images completed in 0:00:01.906623
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+WARNING:root:dropping by-heading in file:///htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html: by benedict de spinoza
+WARNING:root:use x-ebookmaker-important class if this heading should be in TOC
+INFO:root:validating...
+INFO:root:3800-epub.epub validates ok.
+INFO:root:epub.noimages output in 3800-epub.epub
+INFO:root:epub.noimages completed in 0:00:04.404487
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+WARNING:root:dropping by-heading in file:///htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html: by benedict de spinoza
+WARNING:root:use x-ebookmaker-important class if this heading should be in TOC
+INFO:root:validating...
+INFO:root:3800-images-epub.epub validates ok.
+INFO:root:epub.images output in 3800-images-epub.epub
+INFO:root:epub.images completed in 0:00:04.081844
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:kindle.images output in 3800-images-kindle.mobi
+INFO:root:kindle.images completed in 0:00:01.050230
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+WARNING:root:dropping by-heading in file:///htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html: by benedict de spinoza
+WARNING:root:use x-ebookmaker-important class if this heading should be in TOC
+WARNING:root:dropping by-heading in file:///htdocs/ebookmaker/cache/20261001053748/sample_ebook3800.html: by benedict de spinoza
+WARNING:root:use x-ebookmaker-important class if this heading should be in TOC
+INFO:root:validating...
+INFO:root:3800-images-epub3.epub validates ok.
+INFO:root:epub3.images output in 3800-images-epub3.epub
+INFO:root:epub3.images completed in 0:00:04.097885
+INFO:root:There is no  Project Gutenberg eBook number for this book in the source file.
+INFO:root:kf8.images output in 3800-kf8-kindle.mobi
+INFO:root:kf8.images completed in 0:00:01.089073
+INFO:root: Finished jobs. Total time: 0:00:16.894007
+--- ebookmaker complete

@@ -1,0 +1,240 @@
+para,source,source_label,text,occ,target,target_label,rule,flag,note,start,end,context
+951,p5-pref,Preface,I.50.,1,,,manual,skip,"Descartes, Passions of the Soul, Part I, art. 50 (Latin articulo 50 partis I de passionibus animae), not the Ethics",3777,3782," he endeavours to prove in the Passions de l'âme, I.50. He thence concludes, that the"
+951,p5-pref,Preface,I.27,1,,,manual,skip,"Descartes, Passions of the Soul, Part I, art. 27 (Latin articulum 27 partis I passionum animae), not the Ethics",4184,4188,"ome movement of the spirits."" (Passions de l'âme, I.27). But, seeing that we can joi"
+954,p5-ax2,Ax. II,III. vii.,1,p3-prop7,"Part III, Prop. VII",pattern,ok,,28,37,(This axiom is evident from III. vii.)
+956,p5-prop1-proof,"Prop. I, Proof",II. vii.,1,p2-prop7,"Part II, Prop. VII",pattern,ok,,54,62,f.—The order and connection of ideas is the same (II. vii.) as the order and connection 
+956,p5-prop1-proof,"Prop. I, Proof",II. vi. Coroll.,1,p2-prop6-cor,"Part II, Prop. VI, Coroll.",pattern,ok,,166,181,â the order and connection of things is the same (II. vi. Coroll. and vii.) as the order and co
+956,p5-prop1-proof,"Prop. I, Proof",vii.,1,p2-prop7,"Part II, Prop. VII",pattern,ok,,186,190,ection of things is the same (II. vi. Coroll. and vii.) as the order and connection 
+956,p5-prop1-proof,"Prop. I, Proof",II. xviii.,1,p2-prop18,"Part II, Prop. XVIII",pattern,ok,,376,386,"der and association of modifications of the body (II. xviii.), so vice versâ (III. ii.) th"
+956,p5-prop1-proof,"Prop. I, Proof",III. ii.,1,p3-prop2,"Part III, Prop. II",pattern,ok,,404,412,"ications of the body (II. xviii.), so vice versâ (III. ii.) the order and connection of "
+958,p5-prop2-proof,"Prop. II, Proof","Def. of the Emotions, vi.",1,p3-emodef6,"Part III, Def. of the Emotions VI",pattern,ok,,129,154,"in, accompanied by the idea of an external cause (Def. of the Emotions, vi. vii.); wherefore, when this c"
+958,p5-prop2-proof,"Prop. II, Proof",vii.,1,p3-emodef7,"Part III, Def. of the Emotions VII",pattern,ok,,155,159,"a of an external cause (Def. of the Emotions, vi. vii.); wherefore, when this cause "
+960,p5-prop3-proof,"Prop. III, Proof",the general Def. of the Emotions,1,p3-emodef-gen,"Part III, General Definition of the Emotions",pattern,ok,,62,94,"otion, which is a passion, is a confused idea (by the general Def. of the Emotions). If, therefore, we form a cl"
+960,p5-prop3-proof,"Prop. III, Proof",II. xxi.,1,p2-prop21,"Part II, Prop. XXI",pattern,ok,,278,286,"ar as it is referred to the mind only, by reason (II. xxi., and note); therefore (III. i"
+960,p5-prop3-proof,"Prop. III, Proof",note,1,p2-prop21-note,"Part II, Prop. XXI, Note",pattern,ok,,292,296,"ferred to the mind only, by reason (II. xxi., and note); therefore (III. iii.), the "
+960,p5-prop3-proof,"Prop. III, Proof",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,310,319," only, by reason (II. xxi., and note); therefore (III. iii.), the emotion will cease to b"
+963,p5-prop4-proof,"Prop. IV, Proof",II. xxxviii.,1,p2-prop38,"Part II, Prop. XXXVIII",pattern,ok,,83,95,n to all things can only be conceived adequately (II. xxxviii.); therefore (II. xii. and Lem
+963,p5-prop4-proof,"Prop. IV, Proof",II. xii.,1,p2-prop12,"Part II, Prop. XII",pattern,ok,,109,117,e conceived adequately (II. xxxviii.); therefore (II. xii. and Lemma ii. after II. xiii.
+963,p5-prop4-proof,"Prop. IV, Proof",Lemma ii.,1,p2-lem2,"Part II, Lemma II",pattern,ok,,122,131,dequately (II. xxxviii.); therefore (II. xii. and Lemma ii. after II. xiii.) there is no 
+963,p5-prop4-proof,"Prop. IV, Proof",II. xiii.,1,p2-prop13,"Part II, Prop. XIII",pattern,ok,,138,147,xxviii.); therefore (II. xii. and Lemma ii. after II. xiii.) there is no modification of 
+964,p5-prop4-cor,"Prop. IV, Coroll.",the general Def. of the Emotions,1,p3-emodef-gen,"Part III, General Definition of the Emotions",pattern,ok,,174,206,"ion is the idea of a modification of the body (by the general Def. of the Emotions), and must therefore (by the "
+964,p5-prop4-cor,"Prop. IV, Coroll.",the preceding Prop.,1,p5-prop4,Prop. IV,manual,ok,Latin per propositionem praecedentem: the proposition this corollary belongs to,232,251,"ral Def. of the Emotions), and must therefore (by the preceding Prop.) involve some clear and disti"
+965,p5-prop4-note,"Prop. IV, Note",I. xxxvi.,1,p1-prop36,"Part I, Prop. XXXVI",pattern,ok,,71,80,"re is nothing which is not followed by an effect (I. xxxvi.), and that we clearly and dis"
+965,p5-prop4-note,"Prop. IV, Note",II. xl.,1,p2-prop40,"Part II, Prop. XL",pattern,ok,,185,192,"er follows from an idea, which in us is adequate (II. xl.), it follows that everyone ha"
+965,p5-prop4-note,"Prop. IV, Note",V. ii.,1,p5-prop2,Prop. II,pattern,ok,,951,957,"ot only that love, hatred, &c. will be destroyed (V. ii.), but also that the appetites"
+965,p5-prop4-note,"Prop. IV, Note",IV. lxi.,1,p4-prop61,"Part IV, Prop. LXI",pattern,ok,,1085,1093,"motion, will become incapable of being excessive (IV. lxi.). For it must be especially r"
+965,p5-prop4-note,"Prop. IV, Note",III. xxxi. note,1,p3-prop31-note,"Part III, Prop. XXXI, Note",pattern,ok,,1394,1409,"res his fellow—men to live after his own fashion (III. xxxi. note); in a man, who is not guided"
+965,p5-prop4-note,"Prop. IV, Note",IV. xxxvii. note. i.,1,p4-prop37-note1,"Part IV, Prop. XXXVII, Note I",pattern,ok,,1650,1670,t is an activity or virtue which is called piety (IV. xxxvii. note. i. and second proof). In like ma
+965,p5-prop4-note,"Prop. IV, Note",second proof,1,p4-prop37-proof2,"Part IV, Prop. XXXVII, Another proof",manual,ok,Latin II demonstrationem ejusdem propositionis: the Another Proof of IV. xxxvii.,1675,1687,e which is called piety (IV. xxxvii. note. i. and second proof). In like manner all appetite
+965,p5-prop4-note,"Prop. IV, Note",IV. lix.,1,p4-prop59,"Part IV, Prop. LIX",pattern,ok,,2016,2024,e as much from adequate as from inadequate ideas (IV. lix.). Than this remedy for the em
+965,p5-prop4-note,"Prop. IV, Note",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,2325,2334,"f forming adequate ideas, as we have shown above (III. iii.)."
+967,p5-prop5-proof,"Prop. V, Proof",III. xlix.,1,p3-prop49,"Part III, Prop. XLIX",pattern,ok,,127,137,"han one towards what we conceive to be necessary (III. xlix.), and, consequently, still gr"
+967,p5-prop5-proof,"Prop. V, Proof",IV. xi.,1,p4-prop11,"Part IV, Prop. XI",pattern,ok,,235,242,"ards what we conceive as possible, or contingent (IV. xi.). But to conceive a thing as "
+967,p5-prop5-proof,"Prop. V, Proof",II. xxxv. note,1,p2-prop35-note,"Part II, Prop. XXXV, Note",pattern,ok,,407,421," causes whereby it has been determined to action (II. xxxv. note); therefore, an emotion towar"
+969,p5-prop6-proof,"Prop. VI, Proof",I. xxix.,1,p1-prop29,"Part I, Prop. XXIX",pattern,ok,,56,64,—The mind understands all things to be necessary (I. xxix.) and to be determined to exis
+969,p5-prop6-proof,"Prop. VI, Proof",the foregoing Proposition,1,p5-prop5,Prop. V,last-prop,ok,,160,185,"ion by an infinite chain of causes; therefore (by the foregoing Proposition), it thus far brings it about"
+969,p5-prop6-proof,"Prop. VI, Proof",III. xlviii.,1,p3-prop48,"Part III, Prop. XLVIII",pattern,ok,,281,293,"s subject to the emotions arising therefrom, and (III. xlviii.) feels less emotion towards t"
+972,p5-prop7-proof,"Prop. VII, Proof",II. xvii.,1,p2-prop17,"Part II, Prop. XVII",pattern,ok,,198,207,"motion excluding the existence of the said thing (II. xvii.). Wherefore, the emotion, whi"
+972,p5-prop7-proof,"Prop. VII, Proof",IV. vi.,1,p4-prop6,"Part IV, Prop. VI",pattern,ok,,365,372,"vercome the rest of a man's activities and power (IV. vi.), but is, on the contrary, of"
+972,p5-prop7-proof,"Prop. VII, Proof",IV. ix.,1,p4-prop9,"Part IV, Prop. IX",pattern,ok,,510,517,hich exclude the existence of its external cause (IV. ix.). But an emotion which spring
+972,p5-prop7-proof,"Prop. VII, Proof",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,647,664,"n properties of things (see the def. of reason in II. xl. note. ii.), which we always regard as p"
+972,p5-prop7-proof,"Prop. VII, Proof",II. xxxviii.,1,p2-prop38,"Part II, Prop. XXXVIII",pattern,ok,,813,825, and which we always conceive in the same manner (II. xxxviii.). Wherefore an emotion of thi
+972,p5-prop7-proof,"Prop. VII, Proof",V. Ax. i.,1,p5-ax1,Ax. I,pattern,ok,,905,914,"s kind always remains the same; and consequently (V. Ax. i.) emotions, which are contrary"
+974,p5-prop8-proof,"Prop. VIII, Proof",III. vii.,1,p3-prop7,"Part III, Prop. VII",pattern,ok,,62,71,"simultaneous causes are more powerful than a few (III. vii.): therefore (IV. v.), in prop"
+974,p5-prop8-proof,"Prop. VIII, Proof",IV. v.,1,p4-prop5,"Part IV, Prop. V",pattern,ok,,85,91," more powerful than a few (III. vii.): therefore (IV. v.), in proportion to the increa"
+975,p5-prop8-note,"Prop. VIII, Note",V. Ax. ii.,1,p5-ax2,Ax. II,pattern,ok,,43,53,Note—This proposition is also evident from V. Ax. ii.
+977,p5-prop9-proof,"Prop. IX, Proof",IV. xxvi.,1,p4-prop26,"Part IV, Prop. XXVI",pattern,ok,,101,110," as it hinders the mind from being able to think (IV. xxvi. xxvii.); therefore, an emotio"
+977,p5-prop9-proof,"Prop. IX, Proof",xxvii.,1,p4-prop27,"Part IV, Prop. XXVII",pattern,ok,,111,117,"ders the mind from being able to think (IV. xxvi. xxvii.); therefore, an emotion, wher"
+977,p5-prop9-proof,"Prop. IX, Proof",III. vii.,1,p3-prop7,"Part III, Prop. VII",pattern,ok,,489,498,"as the mind's essence, in other words, its power (III. vii.), consists solely in thought "
+977,p5-prop9-proof,"Prop. IX, Proof",II. xi.,1,p2-prop11,"Part II, Prop. XI",pattern,ok,,529,536,"ts power (III. vii.), consists solely in thought (II. xi.), the mind is less passive in"
+977,p5-prop9-proof,"Prop. IX, Proof",III. xlviii.,1,p3-prop48,"Part III, Prop. XLVIII",pattern,ok,,814,826," this was our second point. Lastly, this emotion (III. xlviii.), in so far as it is attribut"
+979,p5-prop10-proof,"Prop. X, Proof",IV. xxx.,1,p4-prop30,"Part IV, Prop. XXX",pattern,ok,,64,72,"tions, which are contrary to our nature, that is (IV. xxx.), which are bad, are bad in s"
+979,p5-prop10-proof,"Prop. X, Proof",IV. xxvii.,1,p4-prop27,"Part IV, Prop. XXVII",pattern,ok,,152,162,"o far as they impede the mind from understanding (IV. xxvii.). So long, therefore, as we a"
+979,p5-prop10-proof,"Prop. X, Proof",IV. xxvi.,1,p4-prop26,"Part IV, Prop. XXVI",pattern,ok,,306,315,"ower, whereby it endeavours to understand things (IV. xxvi.), is not impeded, and therefo"
+979,p5-prop10-proof,"Prop. X, Proof",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,429,446,stinct ideas and to deduce them one from another (II. xl. note. ii. and II. xlvii. note); consequ
+979,p5-prop10-proof,"Prop. X, Proof",II. xlvii. note,1,p2-prop47-note,"Part II, Prop. XLVII, Note",pattern,ok,,451,466,duce them one from another (II. xl. note. ii. and II. xlvii. note); consequently we have in suc
+980,p5-prop10-note,"Prop. X, Note",V. vii.,1,p5-prop7,Prop. VII,pattern,ok,,155,162,from being easily affected by evil emotions. For (V. vii.) a greater force is needed fo
+980,p5-prop10-note,"Prop. X, Note",IV. xlvi.,1,p4-prop46,"Part IV, Prop. XLVI",pattern,ok,,789,798,"tance, we have laid down among the rules of life (IV. xlvi. and note), that hatred should"
+980,p5-prop10-note,"Prop. X, Note",note,1,p4-prop46-note,"Part IV, Prop. XLVI, Note",pattern,ok,,803,807," laid down among the rules of life (IV. xlvi. and note), that hatred should be overc"
+980,p5-prop10-note,"Prop. X, Note",II. xviii.,1,p2-prop18,"Part II, Prop. XVIII",pattern,ok,,1299,1309,ways be ready for use when a wrong is done to us (II. xviii.). If we keep also in readines
+980,p5-prop10-note,"Prop. X, Note",IV. lii.,1,p4-prop52,"Part IV, Prop. LII",pattern,ok,,1546,1554,"iescence is the result of the right way of life ( IV. lii.), and that men, no less than "
+980,p5-prop10-note,"Prop. X, Note",V. vi.,1,p5-prop6,Prop. VI,pattern,ok,,2046,2052,"the subject beforehand. As is indeed evident from V. vi. vii. viii. We should, in the "
+980,p5-prop10-note,"Prop. X, Note",vii.,1,p5-prop7,Prop. VII,pattern,ok,,2053,2057,"ject beforehand. As is indeed evident from V. vi. vii. viii. We should, in the same "
+980,p5-prop10-note,"Prop. X, Note",viii.,1,p5-prop8,Prop. VIII,pattern,ok,,2058,2063,"beforehand. As is indeed evident from V. vi. vii. viii. We should, in the same way, r"
+980,p5-prop10-note,"Prop. X, Note",IV. lxiii. Coroll.,1,p4-prop63-cor,"Part IV, Prop. LXIII, Coroll.",pattern,ok,,2478,2496,"ind that which is good in every individual thing (IV. lxiii. Coroll. and III. lix.), in order that"
+980,p5-prop10-note,"Prop. X, Note",III. lix.,1,p3-prop59,"Part III, Prop. LIX",pattern,ok,,2501,2510,"in every individual thing (IV. lxiii. Coroll. and III. lix.), in order that we may always"
+983,p5-prop11-proof,"Prop. XI, Proof",V. viii.,1,p5-prop8,Prop. VIII,pattern,ok,,330,338,"e frequent, or is more often in full vigour, and (V. viii.) occupies the mind more. Q.E."
+985,p5-prop12-proof,"Prop. XII, Proof",II. xl. note ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,153,169,"r deductions therefrom (see definition of Reason, II. xl. note ii.), and are consequently (by th"
+985,p5-prop12-proof,"Prop. XII, Proof",the last Prop.,1,p5-prop11,Prop. XI,last-prop,ok,,197,211,"ason, II. xl. note ii.), and are consequently (by the last Prop.) more often aroused in us. Wh"
+985,p5-prop12-proof,"Prop. XII, Proof",II. xviii.,1,p2-prop18,"Part II, Prop. XVIII",pattern,ok,,402,412,"onjunction with something else, and consequently (II. xviii.) that the images of the said "
+987,p5-prop13-proof,"Prop. XIII, Proof",II. xviii.,1,p2-prop18,"Part II, Prop. XVIII",pattern,ok,,90,100,"ciated with a greater number of other images, so (II. xviii.) are there more causes whereb"
+989,p5-prop14-proof,"Prop. XIV, Proof",V. iv.,1,p5-prop4,Prop. IV,pattern,ok,,111,117, may not form some clear and distinct conception (V. iv.); wherefore it can bring it a
+989,p5-prop14-proof,"Prop. XIV, Proof",I. xv.,1,p1-prop15,"Part I, Prop. XV",pattern,ok,,206,212,t they should all be referred to the idea of God (I. xv.). Q.E.D.
+991,p5-prop15-proof,"Prop. XV, Proof",III. liii.,1,p3-prop53,"Part III, Prop. LIII",pattern,ok,,90,100,"erstands himself and his emotions feels pleasure (III. liii.), and this pleasure is (by th"
+991,p5-prop15-proof,"Prop. XV, Proof",the last Prop.,1,p5-prop14,Prop. XIV,last-prop,ok,,128,142,"s pleasure (III. liii.), and this pleasure is (by the last Prop.) accompanied by the idea of G"
+991,p5-prop15-proof,"Prop. XV, Proof","Def. of the Emotions, vi.",1,p3-emodef6,"Part III, Def. of the Emotions VI",pattern,ok,,187,212,"Prop.) accompanied by the idea of God; therefore (Def. of the Emotions, vi.) such an one loves God, and ("
+993,p5-prop16-proof,"Prop. XVI, Proof",V. xiv.,1,p5-prop14,Prop. XIV,pattern,ok,,75,82,ssociated with all the modifications of the body (V. xiv.) and is fostered by them all 
+993,p5-prop16-proof,"Prop. XVI, Proof",V. xv.,1,p5-prop15,Prop. XV,pattern,ok,,113,119,"f the body (V. xiv.) and is fostered by them all (V. xv.); therefore (V. xi.), it must"
+993,p5-prop16-proof,"Prop. XVI, Proof",V. xi.,1,p5-prop11,Prop. XI,pattern,ok,,133,139," and is fostered by them all (V. xv.); therefore (V. xi.), it must hold the chief plac"
+995,p5-prop17-proof,"Prop. XVII, Proof",II. xxxii.,1,p2-prop32,"Part II, Prop. XXXII",pattern,ok,,67,77," in so far as they are referred to God, are true (II. xxxii.), that is (II. Def. iv.) adeq"
+995,p5-prop17-proof,"Prop. XVII, Proof",II. Def. iv.,1,p2-def4,"Part II, Def. IV",pattern,ok,,89,101," referred to God, are true (II. xxxii.), that is (II. Def. iv.) adequate; and therefore (by "
+995,p5-prop17-proof,"Prop. XVII, Proof",the general Def. of the Emotions,1,p3-emodef-gen,"Part III, General Definition of the Emotions",pattern,ok,,131,163,hat is (II. Def. iv.) adequate; and therefore (by the general Def. of the Emotions) God is without passions. Aga
+995,p5-prop17-proof,"Prop. XVII, Proof",I. xx. Coroll. ii.,1,p1-prop20-cor2,"Part I, Prop. XX, Coroll. II",pattern,ok,,260,278,ss either to a greater or to a lesser perfection (I. xx. Coroll. ii.); therefore (by Def. of the E
+995,p5-prop17-proof,"Prop. XVII, Proof","Def. of the Emotions, ii.",1,p3-emodef2,"Part III, Def. of the Emotions II",pattern,ok,,295,320,"er perfection (I. xx. Coroll. ii.); therefore (by Def. of the Emotions, ii. iii.) he is not affected by a"
+995,p5-prop17-proof,"Prop. XVII, Proof",iii.,1,p3-emodef3,"Part III, Def. of the Emotions III",pattern,ok,,321,325,"ll. ii.); therefore (by Def. of the Emotions, ii. iii.) he is not affected by any em"
+996,p5-prop17-cor,"Prop. XVII, Coroll.",the foregoing Prop.,1,p5-prop17,Prop. XVII,manual,ok,Latin per propositionem praecedentem: the proposition this corollary belongs to,76,95,"ng, God does not love or hate anyone. For God (by the foregoing Prop.) is not affected by any emoti"
+996,p5-prop17-cor,"Prop. XVII, Coroll.","Def. of the Emotions, vi.",1,p3-emodef6,"Part III, Def. of the Emotions VI",pattern,ok,,163,188,"by any emotion of pleasure or pain, consequently (Def. of the Emotions, vi. vii.) he does not love or hat"
+996,p5-prop17-cor,"Prop. XVII, Coroll.",vii.,1,p3-emodef7,"Part III, Def. of the Emotions VII",pattern,ok,,189,193," or pain, consequently (Def. of the Emotions, vi. vii.) he does not love or hate any"
+998,p5-prop18-proof,"Prop. XVIII, Proof",II. xlvi.,1,p2-prop46,"Part II, Prop. XLVI",pattern,ok,,63,72,"ea of God which is in us is adequate and perfect (II. xlvi. xlvii.); wherefore, in so far"
+998,p5-prop18-proof,"Prop. XVIII, Proof",xlvii.,1,p2-prop47,"Part II, Prop. XLVII",pattern,ok,,73,79,"which is in us is adequate and perfect (II. xlvi. xlvii.); wherefore, in so far as we "
+998,p5-prop18-proof,"Prop. XVIII, Proof",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,141,150,", in so far as we contemplate God, we are active (III. iii.); consequently (III. lix.) th"
+998,p5-prop18-proof,"Prop. XVIII, Proof",III. lix.,1,p3-prop59,"Part III, Prop. LIX",pattern,ok,,167,176,"ate God, we are active (III. iii.); consequently (III. lix.) there can be no pain accompa"
+998,p5-prop18-proof,"Prop. XVIII, Proof","Def. of the Emotions, vii.",1,p3-emodef7,"Part III, Def. of the Emotions VII",pattern,ok,,247,273,"n accompanied by the idea of God, in other words (Def. of the Emotions, vii.), no one can hate God. Q.E.D."
+1000,p5-prop18-note,"Prop. XVIII, Note",V. iii.,1,p5-prop3,Prop. III,pattern,ok,,225,232,"understand the causes of pain, it to that extent (V. iii.) ceases to be a passion, that"
+1000,p5-prop18-note,"Prop. XVIII, Note",III. lix.,1,p3-prop59,"Part III, Prop. LIX",pattern,ok,,289,298,"s to be a passion, that is, it ceases to be pain (III. lix.); therefore, in so far as we "
+1002,p5-prop19-proof,"Prop. XIX, Proof",V. xvii. Coroll.,1,p5-prop17-cor,"Prop. XVII, Coroll.",pattern,ok,,59,75,"r, if a man should so endeavour, he would desire (V. xvii. Coroll.) that God, whom he loves, sho"
+1002,p5-prop19-proof,"Prop. XIX, Proof",III. xix.,1,p3-prop19,"Part III, Prop. XIX",pattern,ok,,168,177,"d, and consequently he would desire to feel pain (III. xix.); which is absurd (III. xxvii"
+1002,p5-prop19-proof,"Prop. XIX, Proof",III. xxviii.,1,p3-prop28,"Part III, Prop. XXVIII",pattern,ok,,197,209,"desire to feel pain (III. xix.); which is absurd (III. xxviii.). Therefore, he who loves God"
+1004,p5-prop20-proof,"Prop. XX, Proof",IV. xxviii.,1,p4-prop28,"Part IV, Prop. XXVIII",pattern,ok,,101,112,"ich we can seek for under the guidance of reason (IV. xxviii.), it is common to all men (IV"
+1004,p5-prop20-proof,"Prop. XX, Proof",IV. xxxvi.,1,p4-prop36,"Part IV, Prop. XXXVI",pattern,ok,,140,150,"of reason (IV. xxviii.), it is common to all men (IV. xxxvi.), and we desire that all shou"
+1004,p5-prop20-proof,"Prop. XX, Proof",IV. xxxvii.,1,p4-prop37,"Part IV, Prop. XXXVII",pattern,ok,,200,211,"), and we desire that all should rejoice therein (IV. xxxvii.); therefore (Def. of the Emot"
+1004,p5-prop20-proof,"Prop. XX, Proof","Def. of the Emotions, xxiii.",1,p3-emodef23,"Part III, Def. of the Emotions XXIII",pattern,ok,,225,253," should rejoice therein (IV. xxxvii.); therefore (Def. of the Emotions, xxiii.), it cannot be stained by the"
+1004,p5-prop20-proof,"Prop. XX, Proof",V. xviii.,1,p5-prop18,Prop. XVIII,pattern,ok,,330,339,"the emotion envy, nor by the emotion of jealousy (V. xviii. see definition of Jealousy, I"
+1004,p5-prop20-proof,"Prop. XX, Proof",III. xxxv. note,1,p3-prop35-note,"Part III, Prop. XXXV, Note",pattern,ok,,368,383,"f jealousy (V. xviii. see definition of Jealousy, III. xxxv. note); but, contrariwise, it must "
+1007,p5-prop20-note,"Prop. XX, Note",V. iv. note,1,p5-prop4-note,"Prop. IV, Note",pattern,ok,,44,55,I. In the actual knowledge of the emotions (V. iv. note).
+1008,p5-prop20-note,"Prop. XX, Note",V. ii.,1,p5-prop2,Prop. II,pattern,ok,,116,122," an external cause, which we conceive confusedly (V. ii. and V. iv. note)."
+1008,p5-prop20-note,"Prop. XX, Note",V. iv. note,2,p5-prop4-note,"Prop. IV, Note",pattern,ok,,127,138,"l cause, which we conceive confusedly (V. ii. and V. iv. note)."
+1009,p5-prop20-note,"Prop. XX, Note",V. vii.,1,p5-prop7,Prop. VII,pattern,ok,,190,197,we conceive in a confused and fragmentary manner (V. vii.).
+1010,p5-prop20-note,"Prop. XX, Note",V. ix.,1,p5-prop9,Prop. IX,pattern,ok,,138,144,ard to the common properties of things or to God (V. ix. xi.).
+1010,p5-prop20-note,"Prop. XX, Note",xi.,1,p5-prop11,Prop. XI,pattern,ok,,145,148,the common properties of things or to God (V. ix. xi.).
+1012,p5-prop20-note,"Prop. XX, Note",V. x. note,1,p5-prop10-note,"Prop. X, Note",pattern,ok,,104,114,"nd associate, one with another, its own emotions (V. x. note and xii. xiii. xiv.)."
+1012,p5-prop20-note,"Prop. XX, Note",xii.,1,p5-prop12,Prop. XII,pattern,ok,,119,123,"ne with another, its own emotions (V. x. note and xii. xiii. xiv.)."
+1012,p5-prop20-note,"Prop. XX, Note",xiii.,1,p5-prop13,Prop. XIII,pattern,ok,,124,129,"th another, its own emotions (V. x. note and xii. xiii. xiv.)."
+1012,p5-prop20-note,"Prop. XX, Note",xiv.,1,p5-prop14,Prop. XIV,pattern,ok,,130,134,"ther, its own emotions (V. x. note and xii. xiii. xiv.)."
+1014,p5-prop20-note,"Prop. XX, Note",II. xlvii. note,1,p2-prop47-note,"Part II, Prop. XLVII, Note",pattern,ok,,120,135,"dge, and especially that third kind of knowledge (II. xlvii. note), founded on the actual knowl"
+1014,p5-prop20-note,"Prop. XX, Note",V. iii.,1,p5-prop3,Prop. III,pattern,ok,,279,286,"ely destroy them, in so far as they are passions (V. iii. and iv. note); at any rate, i"
+1014,p5-prop20-note,"Prop. XX, Note",iv. note,1,p5-prop4-note,"Prop. IV, Note",pattern,ok,,291,299,"them, in so far as they are passions (V. iii. and iv. note); at any rate, it causes them"
+1014,p5-prop20-note,"Prop. XX, Note",V. xiv.,1,p5-prop14,Prop. XIV,pattern,ok,,371,378,"ses them to occupy a very small part of the mind (V. xiv.). Further, it begets a love t"
+1014,p5-prop20-note,"Prop. XX, Note",V. xv.,1,p5-prop15,Prop. XV,pattern,ok,,446,452,"ets a love towards a thing immutable and eternal (V. xv.), whereof we may really enter"
+1014,p5-prop20-note,"Prop. XX, Note",II. xlv.,1,p2-prop45,"Part II, Prop. XLV",pattern,ok,,500,508,"v.), whereof we may really enter into possession (II. xlv.); neither can it be defiled w"
+1015,p5-prop20-note,"Prop. XX, Note",Propositions i.,1,p3-prop1,"Part III, Prop. I",pattern,ok,,363,378,"ons of the mind and its emotions, and, lastly, to Propositions i. and iii. of Part III. It is n"
+1015,p5-prop20-note,"Prop. XX, Note",iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,383,387,"its emotions, and, lastly, to Propositions i. and iii. of Part III. It is now, there"
+1017,p5-prop21-proof,"Prop. XXI, Proof",II. viii. Coroll.,1,p2-prop8-cor,"Part II, Prop. VIII, Coroll.",pattern,ok,,159,176,"he body as actual, except while the body endures (II. viii. Coroll.); and, consequently (II. xxvi"
+1017,p5-prop21-proof,"Prop. XXI, Proof",II. xxvi.,1,p2-prop26,"Part II, Prop. XXVI",pattern,ok,,198,207,"y endures (II. viii. Coroll.); and, consequently (II. xxvi.), it does not imagine any bod"
+1017,p5-prop21-proof,"Prop. XXI, Proof",II. xvii. note,1,p2-prop17-note,"Part II, Prop. XVII, Note",pattern,ok,,364,378,"gine anything (for definition of Imagination, see II. xvii. note), or remember things past, ex"
+1017,p5-prop21-proof,"Prop. XXI, Proof",II. xviii. note,1,p2-prop18-note,"Part II, Prop. XVIII, Note",pattern,ok,,463,478,"while the body endures (see definition of Memory, II. xviii. note). Q.E.D."
+1019,p5-prop22-proof,"Prop. XXII, Proof",I. xxv.,1,p1-prop25,"Part I, Prop. XXV",pattern,ok,,104,111,"this or that human body, but also of its essence (I. xxv.). This essence, therefore, mu"
+1019,p5-prop22-proof,"Prop. XXII, Proof",I. Ax. iv.,1,p1-ax4,"Part I, Ax. IV",pattern,ok,,202,212,"ily be conceived through the very essence of God (I. Ax. iv.), and be thus conceived by a "
+1019,p5-prop22-proof,"Prop. XXII, Proof",I. xvi.,1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,269,276,be thus conceived by a certain eternal necessity (I. xvi.); and this conception must ne
+1019,p5-prop22-proof,"Prop. XXII, Proof",II. iii.,1,p2-prop3,"Part II, Prop. III",pattern,ok,,330,338,nd this conception must necessarily exist in God (II. iii.). Q.E.D.
+1021,p5-prop23-proof,"Prop. XXIII, Proof",last Prop.,1,p5-prop22,Prop. XXII,last-prop,ok,,101,111,"a, which expresses the essence of the human body (last Prop.), which, therefore, is necess"
+1021,p5-prop23-proof,"Prop. XXIII, Proof",II. xiii.,1,p2-prop13,"Part II, Prop. XIII",pattern,ok,,204,213,ng appertaining to the essence of the human mind (II. xiii.). But we have not assigned to
+1021,p5-prop23-proof,"Prop. XXIII, Proof",II. viii. Coroll.,1,p2-prop8-cor,"Part II, Prop. VIII, Coroll.",pattern,ok,,432,449,"ugh duration, and may be defined by time—that is (II. viii. Coroll.), we do not assign to it dura"
+1021,p5-prop23-proof,"Prop. XXIII, Proof",last Prop.,2,p5-prop22,Prop. XXII,last-prop,ok,,644,654,"ternal necessity through the very essence of God (last Prop.); this something, which apper"
+1024,p5-prop24-proof,"Prop. XXIV, Proof",I. xxv. Coroll.,1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",pattern,ok,,28,43,Proof.—This is evident from I. xxv. Coroll.
+1026,p5-prop25-proof,"Prop. XXV, Proof",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,165,182,"edge of the essence of things (see its definition II. xl. note. ii.); and, in proportion as we un"
+1026,p5-prop25-proof,"Prop. XXV, Proof",the last Prop.,1,p5-prop24,Prop. XXIV,last-prop,ok,,275,289,"gs more in this way, we better understand God (by the last Prop.); therefore (IV. xxviii.) the"
+1026,p5-prop25-proof,"Prop. XXV, Proof",IV. xxviii.,1,p4-prop28,"Part IV, Prop. XXVIII",pattern,ok,,303,314,er understand God (by the last Prop.); therefore (IV. xxviii.) the highest virtue of the mi
+1026,p5-prop25-proof,"Prop. XXV, Proof",IV. Def. viii.,1,p4-def8,"Part IV, Def. VIII",pattern,ok,,357,371,"xxviii.) the highest virtue of the mind, that is (IV. Def. viii.) the power, or nature, or (II"
+1026,p5-prop25-proof,"Prop. XXV, Proof",III. vii.,1,p3-prop7,"Part III, Prop. VII",pattern,ok,,399,408,"hat is (IV. Def. viii.) the power, or nature, or (III. vii.) highest endeavour of the min"
+1028,p5-prop26-proof,"Prop. XXVI, Proof","Def. of the Emotions, i.",1,p3-emodef1,"Part III, Def. of the Emotions I",pattern,ok,,213,237,"rmined thus to conceive things; and consequently (Def. of the Emotions, i.), the mind desires so to do, "
+1030,p5-prop27-proof,"Prop. XXVII, Proof",IV. xxviii.,1,p4-prop28,"Part IV, Prop. XXVIII",pattern,ok,,54,65,"f.—The highest virtue of the mind is to know God (IV. xxviii.), or to understand things by "
+1030,p5-prop27-proof,"Prop. XXVII, Proof",V. xxv.,1,p5-prop25,Prop. XXV,pattern,ok,,124,131,"understand things by the third kind of knowledge (V. xxv.), and this virtue is greater "
+1030,p5-prop27-proof,"Prop. XXVII, Proof",V. xxiv.,1,p5-prop24,Prop. XXIV,pattern,ok,,236,244," knows things more by the said kind of knowledge (V. xxiv.): consequently, he who knows "
+1030,p5-prop27-proof,"Prop. XXVII, Proof","Def. of the Emotions, ii.",1,p3-emodef2,"Part III, Def. of the Emotions II",pattern,ok,,367,392,"the summit of human perfection, and is therefore (Def. of the Emotions, ii.) affected by the highest plea"
+1030,p5-prop27-proof,"Prop. XXVII, Proof","Def. of the Emotions, xxv.",1,p3-emodef25,"Part III, Def. of the Emotions XXV",pattern,ok,,509,535," by the idea of himself and his own virtue; thus (Def. of the Emotions, xxv.), from this kind of knowledge"
+1032,p5-prop28-proof,"Prop. XXVIII, Proof",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,287,304,hich are referred to the third kind of knowledge (II. xl. note. ii.) cannot follow from ideas tha
+1032,p5-prop28-proof,"Prop. XXVIII, Proof","Def. of the Emotions, i.",1,p3-emodef1,"Part III, Def. of the Emotions I",pattern,ok,,515,539,"he second and third kind of knowledge; therefore (Def. of the Emotions, i.), the desire of knowing thing"
+1034,p5-prop29-proof,"Prop. XXIX, Proof",V. xxi.,1,p5-prop21,Prop. XXI,pattern,ok,,227,234,e power of conceiving things in relation to time (V. xxi. II. xxvi.). But eternity cann
+1034,p5-prop29-proof,"Prop. XXIX, Proof",II. xxvi.,1,p2-prop26,"Part II, Prop. XXVI",pattern,ok,,235,244,of conceiving things in relation to time (V. xxi. II. xxvi.). But eternity cannot be expl
+1034,p5-prop29-proof,"Prop. XXIX, Proof",I. Def. viii.,1,p1-def8,"Part I, Def. VIII",pattern,ok,,302,315,ternity cannot be explained in terms of duration (I. Def. viii. and explanation). Therefore t
+1034,p5-prop29-proof,"Prop. XXIX, Proof",explanation,1,p1-def8-expl,"Part I, Def. VIII, Explanation",pattern,ok,,320,331,explained in terms of duration (I. Def. viii. and explanation). Therefore to this extent th
+1034,p5-prop29-proof,"Prop. XXIX, Proof",II. xliv. Coroll. ii.,1,p2-prop44-cor2,"Part II, Prop. XLIV, Coroll. II",pattern,ok,,549,570,"on to conceive things under the form of eternity (II. xliv. Coroll. ii.), and also because it is of t"
+1034,p5-prop29-proof,"Prop. XXIX, Proof",V. xxiii.,1,p5-prop23,Prop. XXIII,pattern,ok,,686,695,"e essence of the body under the form of eternity (V. xxiii.), for besides these two there"
+1034,p5-prop29-proof,"Prop. XXIX, Proof",II. xiii.,1,p2-prop13,"Part II, Prop. XIII",pattern,ok,,775,784, is nothing which belongs to the essence of mind (II. xiii.). Therefore this power of con
+1035,p5-prop29-note,"Prop. XXIX, Note",II. xlv.,1,p2-prop45,"Part II, Prop. XLV",pattern,ok,,372,380,"rnal and infinite essence of God, as we showed in II. xlv. and note, which see."
+1035,p5-prop29-note,"Prop. XXIX, Note",note,1,p2-prop45-note,"Part II, Prop. XLV, Note",pattern,ok,,385,389,"nite essence of God, as we showed in II. xlv. and note, which see."
+1037,p5-prop30-proof,"Prop. XXX, Proof",I. Def. viii.,1,p1-def8,"Part I, Def. VIII",pattern,ok,,92,105,", in so far as this involves necessary existence (I. Def. viii.). Therefore to conceive thing"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",V. xxix.,1,p5-prop29,Prop. XXIX,pattern,ok,,145,153,"onceives its own body under the form of eternity (V. xxix.); that is, except in so far a"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",V. xxi.,1,p5-prop21,Prop. XXI,pattern,ok,,200,207,"ix.); that is, except in so far as it is eternal (V. xxi. xxiii.); therefore (by the la"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",xxiii.,1,p5-prop23,Prop. XXIII,pattern,ok,,208,214,"at is, except in so far as it is eternal (V. xxi. xxiii.); therefore (by the last Prop"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",the last Prop.,1,p5-prop30,Prop. XXX,last-prop,ok,,231,245," as it is eternal (V. xxi. xxiii.); therefore (by the last Prop.), in so far as it is eternal,"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",II. xlvi.,1,p2-prop46,"Part II, Prop. XLVI",pattern,ok,,352,361," of God, which knowledge is necessarily adequate (II. xlvi.); hence the mind, in so far a"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",II. xl.,1,p2-prop40,"Part II, Prop. XL",pattern,ok,,492,499,"hich can follow from this given knowledge of God (II. xl.), in other words, of knowing "
+1039,p5-prop31-proof,"Prop. XXXI, Proof",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,580,597,"hings by the third kind of knowledge (see Def. in II. xl. note. ii.), whereof accordingly the min"
+1039,p5-prop31-proof,"Prop. XXXI, Proof",III. Def. i.,1,p3-def1,"Part III, Def. I",pattern,ok,,630,642,"II. xl. note. ii.), whereof accordingly the mind (III. Def. i.), in so far as it is eternal,"
+1042,p5-prop32-proof,"Prop. XXXII, Proof","Def of the Emotions, xxv.",1,p3-emodef25,"Part III, Def. of the Emotions XXV",manual,ok,not recognized by the tokenizer (no period after Def); Latin per 25 affectuum definitionem,93,118,"he highest possible mental acquiescence, that is (Def of the Emotions, xxv.), pleasure, and this acquiesc"
+1042,p5-prop32-proof,"Prop. XXXII, Proof",V. xxvii.,1,p5-prop27,Prop. XXVII,pattern,ok,,200,209,"ce is accompanied by the idea of the mind itself (V. xxvii.), and consequently (V. xxx.) "
+1042,p5-prop32-proof,"Prop. XXXII, Proof",V. xxx.,1,p5-prop30,Prop. XXX,pattern,ok,,230,237,"of the mind itself (V. xxvii.), and consequently (V. xxx.) the idea also of God as caus"
+1043,p5-prop32-cor,"Prop. XXXII, Coroll.","Def. of the Emotions, vi.",1,p3-emodef6,"Part III, Def. of the Emotions VI",pattern,ok,,187,212,"accompanied by the idea of God as cause, that is (Def. of the Emotions, vi.), the love of God; not in so "
+1043,p5-prop32-cor,"Prop. XXXII, Coroll.",V. xxix.,1,p5-prop29,Prop. XXIX,pattern,ok,,276,284," God; not in so far as we imagine him as present (V. xxix.), but in so far as we underst"
+1045,p5-prop33-proof,"Prop. XXXIII, Proof",V. xxxi.,1,p5-prop31,Prop. XXXI,pattern,ok,,47,55,Proof.—The third kind of knowledge is eternal (V. xxxi. I. Ax. iii.); therefore (by t
+1045,p5-prop33-proof,"Prop. XXXIII, Proof",I. Ax. iii.,1,p1-ax3,"Part I, Ax. III",pattern,ok,,56,67,—The third kind of knowledge is eternal (V. xxxi. I. Ax. iii.); therefore (by the same Axio
+1045,p5-prop33-proof,"Prop. XXXIII, Proof",the same Axiom,1,p1-ax3,"Part I, Ax. III",manual,ok,"Latin per idem axioma partis I: I. Ax. iii., cited just before",84,98, is eternal (V. xxxi. I. Ax. iii.); therefore (by the same Axiom) the love which arises theref
+1046,p5-prop33-note,"Prop. XXXIII, Note",the foregoing Prop.,1,p5-prop33,Prop. XXXIII,manual,ok,"Latin per propositionem praecedentem: V. xxxiii., that this love is eternal",45,64,"Note.—Although this love towards God has (by the foregoing Prop.) no beginning, it yet possess"
+1046,p5-prop33-note,"Prop. XXXIII, Note",the Coroll. of the last Prop.,1,p5-prop32-cor,"Prop. XXXII, Coroll.",manual,ok,"Latin in corollario propositionis praecedentis; V. xxxiii. has no corollary, V. xxxii. Coroll. is meant",172,201,"ve, just as though it had arisen as we feigned in the Coroll. of the last Prop. Nor is there here any differe"
+1046,p5-prop33-note,"Prop. XXXIII, Note",the last Prop.,1,,,manual,skip,replaced by the longer span below,187,201,ugh it had arisen as we feigned in the Coroll. of the last Prop. Nor is there here any differe
+1048,p5-prop34-proof,"Prop. XXXIV, Proof",II. xvii. note,1,p2-prop17-note,"Part II, Prop. XVII, Note",pattern,ok,,83,97,erewith the mind contemplates a thing as present (II. xvii. note); yet this idea indicates rat
+1048,p5-prop34-proof,"Prop. XXXIV, Proof",II. xvi. Coroll. ii.,1,p2-prop16-cor2,"Part II, Prop. XVI, Coroll. II",pattern,ok,,212,232,human body than the nature of the external thing (II. xvi. Coroll. ii.). Therefore emotion (see gene
+1048,p5-prop34-proof,"Prop. XXXIV, Proof",general Def. of Emotions,1,p3-emodef-gen,"Part III, General Definition of the Emotions",pattern,ok,,258,282,"ng (II. xvi. Coroll. ii.). Therefore emotion (see general Def. of Emotions) is imagination, in so far as"
+1048,p5-prop34-proof,"Prop. XXXIV, Proof",V. xxi.,1,p5-prop21,Prop. XXI,pattern,ok,,374,381,"s the present disposition of the body; therefore (V. xxi.) the mind is, only while the "
+1052,p5-prop35-proof,"Prop. XXXV, Proof",I. Def. vi.,1,p1-def6,"Part I, Def. VI",pattern,ok,,35,46,"Proof.—God is absolutely infinite (I. Def. vi.), that is (II. Def. vi.), the"
+1052,p5-prop35-proof,"Prop. XXXV, Proof",II. Def. vi.,1,p2-def6,"Part II, Def. VI",pattern,ok,,58,70,"od is absolutely infinite (I. Def. vi.), that is (II. Def. vi.), the nature of God rejoices "
+1052,p5-prop35-proof,"Prop. XXXV, Proof",II. iii.,1,p2-prop3,"Part II, Prop. III",pattern,ok,,147,155,es in infinite perfection; and such rejoicing is (II. iii.) accompanied by the idea of h
+1052,p5-prop35-proof,"Prop. XXXV, Proof",I. xi.,1,p1-prop11,"Part I, Prop. XI",pattern,ok,,202,208,"ii.) accompanied by the idea of himself, that is (I. xi. and Def. i.), the idea of his"
+1052,p5-prop35-proof,"Prop. XXXV, Proof",Def. i.,1,p1-def1,"Part I, Def. I",pattern,ok,,213,220,"anied by the idea of himself, that is (I. xi. and Def. i.), the idea of his own cause: "
+1052,p5-prop35-proof,"Prop. XXXV, Proof",V. xxxii. Coroll.,1,p5-prop32-cor,"Prop. XXXII, Coroll.",pattern,ok,,279,296,ea of his own cause: now this is what we have (in V. xxxii. Coroll.) described as intellectual lo
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",V. xxxii. Coroll.,1,p5-prop32-cor,"Prop. XXXII, Coroll.",pattern,ok,,77,94,"d must be referred to the activities of the mind (V. xxxii. Coroll. and III. iii.); it is itself,"
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,99,108,"the activities of the mind (V. xxxii. Coroll. and III. iii.); it is itself, indeed, an ac"
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",V. xxxii.,1,p5-prop32,Prop. XXXII,pattern,ok,,218,227,s itself accompanied by the idea of God as cause (V. xxxii. and Coroll.); that is (I. xxv
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",Coroll.,1,p5-prop32-cor,"Prop. XXXII, Coroll.",pattern,ok,,232,239,panied by the idea of God as cause (V. xxxii. and Coroll.); that is (I. xxv. Coroll. an
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",I. xxv. Coroll.,1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",pattern,ok,,251,266,"of God as cause (V. xxxii. and Coroll.); that is (I. xxv. Coroll. and II. xi. Coroll.), an acti"
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Part II, Prop. XI, Coroll.",pattern,ok,,271,286,"xxxii. and Coroll.); that is (I. xxv. Coroll. and II. xi. Coroll.), an activity whereby God, in"
+1054,p5-prop36-proof,"Prop. XXXVI, Proof",the last Prop.,1,p5-prop35,Prop. XXXV,last-prop,ok,,437,451,"accompanied by the idea of himself; therefore (by the last Prop.), this love of the mind is pa"
+1056,p5-prop36-note,"Prop. XXXVI, Note","Def. of the Emotions, xxv.",1,p3-emodef25,"Part III, Def. of the Emotions XXV",pattern,ok,,390,416," rightly be called acquiescence of spirit, which (Def. of the Emotions, xxv. xxx.) is not really distingui"
+1056,p5-prop36-note,"Prop. XXXVI, Note",xxx.,1,p3-emodef30,"Part III, Def. of the Emotions XXX",pattern,ok,,417,421,"ence of spirit, which (Def. of the Emotions, xxv. xxx.) is not really distinguished "
+1056,p5-prop36-note,"Prop. XXXVI, Note",V. xxxv.,1,p5-prop35,Prop. XXXV,pattern,ok,,506,514,"glory. In so far as it is referred to God, it is (V. xxxv.) pleasure, if we may still us"
+1056,p5-prop36-note,"Prop. XXXVI, Note",V. xxvii.,1,p5-prop27,Prop. XXVII,pattern,ok,,654,663,"ar as it is referred to the mind, it is the same (V. xxvii.)."
+1057,p5-prop36-note,"Prop. XXXVI, Note",I. xv.,1,p1-prop15,"Part I, Prop. XV",pattern,ok,,116,122," whereof the beginning and the foundation is God (I. xv., and II. xlvii. note), it bec"
+1057,p5-prop36-note,"Prop. XXXVI, Note",II. xlvii. note,1,p2-prop47-note,"Part II, Prop. XLVII, Note",pattern,ok,,128,143," beginning and the foundation is God (I. xv., and II. xlvii. note), it becomes clear to us, in "
+1057,p5-prop36-note,"Prop. XXXVI, Note",II. xl. note. ii.,1,p2-prop40-note2,"Part II, Prop. XL, Note II",pattern,ok,,485,502,"ich I have called intuitive or of the third kind (II. xl. note. ii.), is potent, and more powerfu"
+1059,p5-prop37-proof,"Prop. XXXVII, Proof",V. xxxiii.,1,p5-prop33,Prop. XXXIII,pattern,ok,,162,172,"ed through the nature of God as an eternal truth (V. xxxiii. and xxix.). If, therefore, th"
+1059,p5-prop37-proof,"Prop. XXXVII, Proof",xxix.,1,p5-prop29,Prop. XXIX,pattern,ok,,177,182,"nature of God as an eternal truth (V. xxxiii. and xxix.). If, therefore, there should"
+1060,p5-prop37-note,"Prop. XXXVII, Note",The Axiom of Part IV.,1,p4-ax1,"Part IV, Axiom",manual,ok,the single axiom of Part IV,6,27,Note.—The Axiom of Part IV. has reference to particular t
+1062,p5-prop38-proof,"Prop. XXXVIII, Proof",II. xi.,1,p2-prop11,"Part II, Prop. XI",pattern,ok,,49,56,"Proof.—The mind's essence consists in knowledge (II. xi.); therefore, in proportion as"
+1062,p5-prop38-proof,"Prop. XXXVIII, Proof",V. xxix.,1,p5-prop29,Prop. XXIX,pattern,ok,,213,221," the greater will be the part of it that endures (V. xxix. and xxiii.), and, consequentl"
+1062,p5-prop38-proof,"Prop. XXXVIII, Proof",xxiii.,1,p5-prop23,Prop. XXIII,pattern,ok,,226,232,"will be the part of it that endures (V. xxix. and xxiii.), and, consequently (by the l"
+1062,p5-prop38-proof,"Prop. XXXVIII, Proof",the last Prop.,1,p5-prop37,Prop. XXXVII,last-prop,ok,,257,271,"ures (V. xxix. and xxiii.), and, consequently (by the last Prop.), the greater will be the par"
+1062,p5-prop38-proof,"Prop. XXXVIII, Proof",IV. xxx.,1,p4-prop30,"Part IV, Prop. XXX",pattern,ok,,399,407," contrary to our nature, or in other words, evil (IV. xxx.). Thus, in proportion as the "
+1063,p5-prop38-note,"Prop. XXXVIII, Note",IV. xxxix. note,1,p4-prop39-note,"Part IV, Prop. XXXIX, Note",pattern,ok,,59,74,"ce we understand that point which I touched on in IV. xxxix. note, and which I promised to expl"
+1063,p5-prop38-note,"Prop. XXXVIII, Note",V. xxvii.,1,p5-prop27,Prop. XXVII,pattern,ok,,381,390,"owledge arises the highest possible acquiescence (V. xxvii.), it follows that the human m"
+1063,p5-prop38-note,"Prop. XXXVIII, Note",V. xxi.,1,p5-prop21,Prop. XXI,pattern,ok,,529,536,reof which we have shown to perish with the body (V. xxi.) should be of little importan
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",IV. xxxviii.,1,p4-prop38,"Part IV, Prop. XXXVIII",pattern,ok,,130,142," least agitated by those emotions which are evil (IV. xxxviii.)—that is (IV. xxx.), by those"
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",IV. xxx.,1,p4-prop30,"Part IV, Prop. XXX",pattern,ok,,153,161,"e emotions which are evil (IV. xxxviii.)—that is (IV. xxx.), by those emotions which are"
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",V. x.,1,p5-prop10,Prop. X,pattern,ok,,227,232,"ions which are contrary to our nature; therefore (V. x.), he possesses the power of a"
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",V. xv.,1,p5-prop15,Prop. XV,pattern,ok,,507,513,he idea of God; whence it will come to pass that (V. xv.) he will be affected with lov
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",V. xvi.,1,p5-prop16,Prop. XVI,pattern,ok,,565,572,"he will be affected with love towards God, which (V. xvi.) must occupy or constitute th"
+1065,p5-prop39-proof,"Prop. XXXIX, Proof",V. xxxiii.,1,p5-prop33,Prop. XXXIII,pattern,ok,,639,649,"constitute the chief part of the mind; therefore (V. xxxiii.), such a man will possess a m"
+1067,p5-prop39-note,"Prop. XXXIX, Note",the note to the last Proposition,1,p5-prop38-note,"Prop. XXXVIII, Note",manual,ok,Latin in scholio propositionis praecedentis,1112,1144,"son with its intellect, as I have already said in the note to the last Proposition."
+1067,p5-prop39-note,"Prop. XXXIX, Note",the last Proposition,1,,,manual,skip,replaced by the longer span below,1124,1144," intellect, as I have already said in the note to the last Proposition."
+1069,p5-prop40-proof,"Prop. XL, Proof",II. Def. vi.,1,p2-def6,"Part II, Def. VI",pattern,ok,,82,94,"ng is more perfect, it possesses more of reality (II. Def. vi.), and, consequently (III. iii"
+1069,p5-prop40-proof,"Prop. XL, Proof",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,116,125,"ore of reality (II. Def. vi.), and, consequently (III. iii. and note), it is to that exte"
+1069,p5-prop40-proof,"Prop. XL, Proof",note,1,p3-prop3-note,"Part III, Prop. III, Note",pattern,ok,,130,134," (II. Def. vi.), and, consequently (III. iii. and note), it is to that extent more a"
+1070,p5-prop40-cor,"Prop. XL, Coroll.",V. xxiii.,1,p5-prop23,Prop. XXIII,pattern,ok,,156,165," than the rest. For the eternal part of the mind (V. xxiii. xxix.) is the understanding, "
+1070,p5-prop40-cor,"Prop. XL, Coroll.",xxix.,1,p5-prop29,Prop. XXIX,pattern,ok,,166,171,"rest. For the eternal part of the mind (V. xxiii. xxix.) is the understanding, throug"
+1070,p5-prop40-cor,"Prop. XL, Coroll.",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,235,244,"standing, through which alone we are said to act (III. iii.); the part which we have show"
+1070,p5-prop40-cor,"Prop. XL, Coroll.",V. xxi.,1,p5-prop21,Prop. XXI,pattern,ok,,306,313,"which we have shown to perish is the imagination (V. xxi.), through which only we are s"
+1070,p5-prop40-cor,"Prop. XL, Coroll.",III. iii.,2,p3-prop3,"Part III, Prop. III",pattern,ok,,362,371,".), through which only we are said to be passive (III. iii. and general Def. of the Emoti"
+1070,p5-prop40-cor,"Prop. XL, Coroll.",general Def. of the Emotions,1,p3-emodef-gen,"Part III, General Definition of the Emotions",pattern,ok,,376,404,"ich only we are said to be passive (III. iii. and general Def. of the Emotions); therefore, the former, be i"
+1071,p5-prop40-note,"Prop. XL, Note",I. xxi.,1,p1-prop21,"Part I, Prop. XXI",pattern,ok,,163,170,"ithout relation to the body; whence, as also from I. xxi. and other places, it is plain"
+1073,p5-prop41-proof,"Prop. XLI, Proof",IV. xxii. Coroll.,1,p4-prop22-cor,"Part IV, Prop. XXII, Coroll.",pattern,ok,,80,97,"dation of virtue, or the rule of right living is (IV. xxii. Coroll. and xxiv.) seeking one's own "
+1073,p5-prop41-proof,"Prop. XLI, Proof",xxiv.,1,p4-prop24,"Part IV, Prop. XXIV",pattern,ok,,102,107,he rule of right living is (IV. xxii. Coroll. and xxiv.) seeking one's own true inter
+1077,p5-prop42-proof,"Prop. XLII, Proof",V. xxxvi,1,p5-prop36,Prop. XXXVI,pattern,ok,,49,57,"Proof.—Blessedness consists in love towards God (V. xxxvi and note), which love springs"
+1077,p5-prop42-proof,"Prop. XLII, Proof",note,1,p5-prop36-note,"Prop. XXXVI, Note",pattern,ok,,62,66,"edness consists in love towards God (V. xxxvi and note), which love springs from the"
+1077,p5-prop42-proof,"Prop. XLII, Proof",V. xxxii. Coroll.,1,p5-prop32-cor,"Prop. XXXII, Coroll.",pattern,ok,,122,139,ch love springs from the third kind of knowledge (V. xxxii. Coroll.); therefore this love (III. i
+1077,p5-prop42-proof,"Prop. XLII, Proof",III. iii.,1,p3-prop3,"Part III, Prop. III",pattern,ok,,163,172,owledge (V. xxxii. Coroll.); therefore this love (III. iii. lix.) must be referred to the
+1077,p5-prop42-proof,"Prop. XLII, Proof",lix.,1,p3-prop59,"Part III, Prop. LIX",pattern,ok,,173,177,. xxxii. Coroll.); therefore this love (III. iii. lix.) must be referred to the mind
+1077,p5-prop42-proof,"Prop. XLII, Proof",IV. Def. viii.,1,p4-def8,"Part IV, Def. VIII",pattern,ok,,255,269,"nd, in so far as the latter is active; therefore (IV. Def. viii.) it is virtue itself. This wa"
+1077,p5-prop42-proof,"Prop. XLII, Proof",V. xxxii.,1,p5-prop32,Prop. XXXII,pattern,ok,,433,442,"e or blessedness, so does it the more understand (V. xxxii.); that is (V. iii. Coroll.), "
+1077,p5-prop42-proof,"Prop. XLII, Proof",V. iii. Coroll.,1,p5-prop3-cor,"Prop. III, Coroll.",pattern,ok,,454,469,"does it the more understand (V. xxxii.); that is (V. iii. Coroll.), so much the more power has "
+1077,p5-prop42-proof,"Prop. XLII, Proof",V. xxxviii.,1,p5-prop38,Prop. XXXVIII,pattern,ok,,526,537,"uch the more power has it over the emotions, and (V. xxxviii.) so much the less is it subje"

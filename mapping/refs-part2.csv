@@ -1,0 +1,272 @@
+para,source,source_label,text,occ,target,target_label,rule,flag,note,start,end,context
+166,p2-pref,Preface,"Part i., Prop. xvi.",1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,177,196,"being; not, indeed, all of them (for we proved in Part i., Prop. xvi., that an infinite number must"
+167,p2-def1,Def. I,"Pt. i., Prop. xxv., Coroll.",1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",pattern,ok,,161,188,"ar as he is considered as an extended thing. (See Pt. i., Prop. xxv., Coroll.)"
+182,p2-ax5-nb,"Ax. V, N.B.",Prop. xiii.,1,p2-prop13,Prop. XIII,manual,ok,reviewed: the Postulates follow Prop. xiii. (forward reference),54,65, The Postulates are given after the conclusion of Prop. xiii.
+184,p2-prop1-proof,"Prop. I, Proof","Pt. i., Prop. xxv., Coroll.",1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",pattern,ok,,131,158,"in conditioned manner, express the nature of God (Pt. i., Prop. xxv., Coroll.). God therefore possesses the"
+184,p2-prop1-proof,"Prop. I, Proof","Pt. i., Def. v.",1,p1-def5,"Part I, Def. V",pattern,ok,,200,215," Coroll.). God therefore possesses the attribute (Pt. i., Def. v.) of which the concept is invo"
+184,p2-prop1-proof,"Prop. I, Proof","Pt. i., Def. vi.",1,p1-def6,"Part I, Def. VI",pattern,ok,,426,442,"which express God's eternal and infinite essence (Pt. i., Def. vi.). In other words, God is a th"
+185,p2-prop1-note,"Prop. I, Note","Pt. i., Deff. iv.",1,p1-def4,"Part I, Def. IV",pattern,ok,,508,525,"nceive an infinite being, thought is necessarily (Pt. i., Deff. iv. and vi.) one of the infinite "
+185,p2-prop1-note,"Prop. I, Note",vi.,1,p1-def6,"Part I, Def. VI",pattern,ok,,530,533,"ng, thought is necessarily (Pt. i., Deff. iv. and vi.) one of the infinite attribut"
+189,p2-prop3-proof,"Prop. III, Proof",the first Prop. of this Part,1,p2-prop1,Prop. I,manual,ok,Latin: per Prop. 1 hujus,15,43,Proof.—God (by the first Prop. of this Part) can think an infinite number
+189,p2-prop3-proof,"Prop. III, Proof",Prop. xvi.,1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,133,143," in infinite ways, or (what is the same thing, by Prop. xvi., Part i.) can form the idea o"
+189,p2-prop3-proof,"Prop. III, Proof","Pt. i., Prop. xxxv.",1,p1-prop35,"Part I, Prop. XXXV",pattern,ok,,294,313,"w all that is in the power of God necessarily is (Pt. i., Prop. xxxv.). Therefore, such an idea as "
+189,p2-prop3-proof,"Prop. III, Proof","Part i., Prop. xv.",1,p1-prop15,"Part I, Prop. XV",pattern,ok,,404,422,"idering necessarily is, and in God alone. Q.E.D. (Part i., Prop. xv.)"
+190,p2-prop3-note,"Prop. III, Note","Pt. i., Prop. xxxii., Corolls. i.",1,p1-prop32-cor1,"Part I, Prop. XXXII, Coroll. I",pattern,ok,,378,411,"ower of kings. But this doctrine we have refuted (Pt. i., Prop. xxxii., Corolls. i. and ii.), and we have shown ("
+190,p2-prop3-note,"Prop. III, Note",ii.,1,p1-prop32-cor2,"Part I, Prop. XXXII, Coroll. II",manual,ok,"""Corolls. i. and ii."" of I. xxxii.: the second number is a corollary, not Prop. ii.",416,419,"ve refuted (Pt. i., Prop. xxxii., Corolls. i. and ii.), and we have shown (Part i.,"
+190,p2-prop3-note,"Prop. III, Note","Part i., Prop. xvi.",1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,441,460," xxxii., Corolls. i. and ii.), and we have shown (Part i., Prop. xvi.) that God acts by the same ne"
+190,p2-prop3-note,"Prop. III, Note","Part i., Prop. xxxiv.",1,p1-prop34,"Part I, Prop. XXXIV",pattern,ok,,771,792,"nfinite acts in infinite ways. We further showed (Part i., Prop. xxxiv.), that God's power is identic"
+190,p2-prop3-note,"Prop. III, Note",Prop. xvi.,1,p1-prop16,"Part I, Prop. XVI",manual,ok,"""in Part I from Prop. xvi. to the end""",1386,1396,ently in his mind what I have said in Part I from Prop. xvi. to the end. No one will be ab
+192,p2-prop4-proof,"Prop. IV, Proof","Part i., Prop. xxx.",1,p1-prop30,"Part I, Prop. XXX",pattern,ok,,96,115,"save the attributes of God and his modifications (Part i., Prop. xxx.). Now God is one (Part i., Pr"
+192,p2-prop4-proof,"Prop. IV, Proof","Part i., Prop. xiv., Coroll.",1,p1-prop14-cor1,"Part I, Prop. XIV, Coroll. I",manual,ok,Latin: per Coroll. 1 Prop. 14 p. 1 (God is one),134,162,"ifications (Part i., Prop. xxx.). Now God is one (Part i., Prop. xiv., Coroll.). Therefore the idea of God, "
+194,p2-prop5-proof,"Prop. V, Proof",Prop. iii.,1,p2-prop3,Prop. III,pattern,ok,,40,50,Proof.—This proposition is evident from Prop. iii. of this Part. We there drew t
+194,p2-prop5-proof,"Prop. V, Proof","Part i., Prop. xxv., Coroll.",1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",pattern,ok,,484,512," ideas is (obviously) a mode of thought, that is (Part i., Prop. xxv., Coroll.) a mode which expresses in a "
+194,p2-prop5-proof,"Prop. V, Proof","Part i., Prop. x.",1,p1-prop10,"Part I, Prop. X",pattern,ok,,628,645," so far as he is a thinking thing, and therefore (Part i., Prop. x.) involves the conception of n"
+194,p2-prop5-proof,"Prop. V, Proof","Part i., Ax. iv.",1,p1-ax4,"Part I, Ax. IV",pattern,ok,,722,738,"f no other attribute of God, and consequently (by Part i., Ax. iv.) is not the effect of any att"
+196,p2-prop6-proof,"Prop. VI, Proof","Part i., Prop. x.",1,p1-prop10,"Part I, Prop. X",pattern,ok,,70,87,"e is conceived through itself, without any other (Part i., Prop. x.); wherefore the modes of each"
+196,p2-prop6-proof,"Prop. VI, Proof","Part i., Ax. iv.",1,p1-ax4,"Part I, Ax. IV",pattern,ok,,198,214,"on of that attribute, but not of any other. Thus (Part i., Ax. iv.) they are caused by God, only"
+199,p2-prop7-proof,"Prop. VII, Proof","Part i., Ax. iv.",1,p1-ax4,"Part I, Ax. IV",pattern,ok,,40,56,"Proof.—This proposition is evident from Part i., Ax. iv. For the idea of everything th"
+204,p2-prop8-proof,"Prop. VIII, Proof",the last,1,p2-prop7,Prop. VII,manual,ok,"""evident from the last"" = Prop. vii.",40,48,Proof.—This proposition is evident from the last; it is understood more clearl
+204,p2-prop8-proof,"Prop. VIII, Proof",the preceding note,1,p2-prop7-note,"Prop. VII, Note",manual,ok,note to Prop. vii.,85,103,from the last; it is understood more clearly from the preceding note.
+208,p2-prop9-proof,"Prop. IX, Proof",Corollary and note to Prop. viii.,1,,,manual,skip,split into two links below,133,166,"hinking, and is distinct from other modes (by the Corollary and note to Prop. viii. of this part); thus (by Prop."
+208,p2-prop9-proof,"Prop. IX, Proof",Corollary,1,p2-prop8-cor,"Prop. VIII, Coroll.",manual,ok,Latin: per Coroll. et Schol. Prop. 8 hujus,133,142,"hinking, and is distinct from other modes (by the Corollary and note to Prop. viii. of th"
+208,p2-prop9-proof,"Prop. IX, Proof",note to Prop. viii.,1,p2-prop8-note,"Prop. VIII, Note",manual,ok,Latin: per Coroll. et Schol. Prop. 8 hujus,147,166,s distinct from other modes (by the Corollary and note to Prop. viii. of this part); thus (by Prop.
+208,p2-prop9-proof,"Prop. IX, Proof",Prop. vi.,1,p2-prop6,Prop. VI,pattern,ok,,191,200,y and note to Prop. viii. of this part); thus (by Prop. vi. of this part) it is caused by
+208,p2-prop9-proof,"Prop. IX, Proof",Prop. xxviii.,1,p1-prop28,"Part I, Prop. XXVIII",pattern,ok,,290,303,o far only as he is a thinking thing. But not (by Prop. xxviii. of Part i.) in so far as he i
+208,p2-prop9-proof,"Prop. IX, Proof",Prop. vii.,1,p2-prop7,Prop. VII,pattern,ok,,575,585,"ty. Now, the order and connection of ideas is (by Prop. vii. of this book) the same as the"
+210,p2-prop9-cor-proof,"Prop. IX, Coroll., Proof",Prop. iii.,1,p2-prop3,Prop. III,pattern,ok,,80,90,"in the object of any idea, its idea is in God (by Prop. iii. of this part), not in so far "
+210,p2-prop9-cor-proof,"Prop. IX, Coroll., Proof",the last Prop.,1,p2-prop9,Prop. IX,manual,ok,"reviewed: in the corollary's proof, the Prop. just proved (Latin: per Prop. praeced.)",228,242,fected by another idea of an individual thing (by the last Prop.); but (by Prop. vii. of this 
+210,p2-prop9-cor-proof,"Prop. IX, Coroll., Proof",Prop. vii.,1,p2-prop7,Prop. VII,pattern,ok,,253,263, an individual thing (by the last Prop.); but (by Prop. vii. of this part) the order and c
+213,p2-prop10-proof,"Prop. X, Proof","Part i., Prop. vii.",1,p1-prop7,"Part I, Prop. VII",pattern,ok,,60,79," being of substance involves necessary existence (Part i., Prop. vii.). If, therefore, the being of"
+213,p2-prop10-proof,"Prop. X, Proof",II. Def. ii.,1,p2-def2,Def. II,pattern,ok,,218,230,"g granted, man would necessarily be granted also (II. Def. ii.), and, consequently, man woul"
+213,p2-prop10-proof,"Prop. X, Proof",II. Ax. i.,1,p2-ax1,Ax. I,pattern,ok,,298,308,"ly, man would necessarily exist, which is absurd (II. Ax. i.). Therefore, &c. Q.E.D."
+214,p2-prop10-note,"Prop. X, Note",I.v.,1,p1-prop5,"Part I, Prop. V",pattern,ok,,47,51,"Note.—This proposition may also be proved from I.v., in which it is shown that th"
+215,p2-prop10-cor,"Prop. X, Coroll.",the last Prop.,1,p2-prop10,Prop. X,manual,ok,reviewed: the being of substance does not belong to man's essence = Prop. x.,127,141,n modifications of the attributes of God. For (by the last Prop.) the being of substance does 
+215,p2-prop10-cor,"Prop. X, Coroll.",i. 15,1,p1-prop15,"Part I, Prop. XV",manual,ok,"arabic numeral, not picked up by the tokenizer",232,237,to the essence of man. That essence therefore (by i. 15) is something which is in God
+215,p2-prop10-cor,"Prop. X, Coroll.",i. 25. Coroll.,1,p1-prop25-cor,"Part I, Prop. XXV, Coroll.",manual,ok,"arabic numeral, not picked up by the tokenizer",354,368,"e nor be conceived, whether it be a modification (i. 25. Coroll.), or a mode which expresses G"
+218,p2-prop10-cor-note,"Prop. X, Coroll., Note",II. Def. ii.,1,p2-def2,Def. II,pattern,ok,,586,598,"hout the thing can neither be nor be conceived."" (II. Def. ii.)"
+220,p2-prop11-proof,"Prop. XI, Proof",Coroll. of the last Prop.,1,p2-prop10-cor,"Prop. X, Coroll.",manual,ok,corollary of Prop. x.,34,59,Proof.—The essence of man (by the Coroll. of the last Prop.) is constituted by certain mo
+220,p2-prop11-proof,"Prop. XI, Proof",the last Prop.,1,,,manual,skip,replaced by the longer link below,45,59,Proof.—The essence of man (by the Coroll. of the last Prop.) is constituted by certain mo
+220,p2-prop11-proof,"Prop. XI, Proof",II. Ax. ii.,1,p2-ax2,Ax. II,pattern,ok,,130,141,"ertain modes of the attributes of God, namely (by II. Ax. ii.), by the modes of thinking, o"
+220,p2-prop11-proof,"Prop. XI, Proof",II. Ax. iii.,1,p2-ax3,Ax. III,pattern,ok,,187,199," ii.), by the modes of thinking, of all which (by II. Ax. iii.) the idea is prior in nature,"
+220,p2-prop11-proof,"Prop. XI, Proof",the same Axiom,1,p2-ax3,Ax. III,manual,ok,"II. Ax. iii., cited just before",363,377,ior in nature) must be in the same individual (by the same Axiom). Therefore an idea is the fi
+220,p2-prop11-proof,"Prop. XI, Proof",II. viii. Coroll.,1,p2-prop8-cor,"Prop. VIII, Coroll.",pattern,ok,,500,517,"t not the idea of a non—existent thing, for then (II. viii. Coroll.) the idea itself cannot be sa"
+220,p2-prop11-proof,"Prop. XI, Proof",I. xxi.,1,p1-prop21,"Part I, Prop. XXI",pattern,ok,,675,682," not of an infinite thing. For an infinite thing (I. xxi., xxii.), must always necessar"
+220,p2-prop11-proof,"Prop. XI, Proof",xxii.,1,p1-prop22,"Part I, Prop. XXII",pattern,ok,,684,689,"n infinite thing. For an infinite thing (I. xxi., xxii.), must always necessarily exi"
+220,p2-prop11-proof,"Prop. XI, Proof",II. Ax. i.,1,p2-ax1,Ax. I,pattern,ok,,738,748,".), must always necessarily exist; this would (by II. Ax. i.) involve an absurdity. Theref"
+224,p2-prop12-proof,"Prop. XII, Proof",II. ix. Coroll.,1,p2-prop9-cor,"Prop. IX, Coroll.",pattern,ok,,104,119,"dea, the knowledge thereof is necessarily in God (II. ix. Coroll.), in so far as he is consider"
+224,p2-prop12-proof,"Prop. XII, Proof",II. xi.,1,p2-prop11,Prop. XI,pattern,ok,,205,212,"affected by the idea of the said object, that is (II. xi.), in so far as he constitutes"
+224,p2-prop12-proof,"Prop. XII, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,470,485,itutes the essence of the human mind; that is (by II. xi. Coroll.) the knowledge of the said th
+225,p2-prop12-note,"Prop. XII, Note",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,82,90,"vident, and is more clearly to be understood from II. vii., which see."
+227,p2-prop13-proof,"Prop. XIII, Proof",II. ix. Coroll.,1,p2-prop9-cor,"Prop. IX, Coroll.",pattern,ok,,129,144,he modifications of the body would not be in God (II. ix. Coroll.) in virtue of his constitutin
+227,p2-prop13-proof,"Prop. XIII, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,257,272,constituting the mind of something else; that is (II. xi. Coroll.) the ideas of the modificatio
+227,p2-prop13-proof,"Prop. XIII, Proof",II. Ax. iv.,1,p2-ax4,Ax. IV,pattern,ok,,351,362,ons of the body would not be in our mind: now (by II. Ax. iv.) we do possess the idea of th
+227,p2-prop13-proof,"Prop. XIII, Proof",II. xi.,1,p2-prop11,Prop. XI,pattern,ok,,531,538," is the body, and the body as it actually exists (II. xi.). Further, if there were any "
+227,p2-prop13-proof,"Prop. XIII, Proof",I. xxxvi.,1,p1-prop36,"Part I, Prop. XXXVI",pattern,ok,,696,705,can exist from which some effect does not follow (I. xxxvi.) there would necessarily have
+227,p2-prop13-proof,"Prop. XIII, Proof",II. xi.,2,p2-prop11,Prop. XI,pattern,ok,,811,818,", which would be the effect of that other object (II. xi.); but (I. Ax. v.) there is no"
+227,p2-prop13-proof,"Prop. XIII, Proof",I. Ax. v.,1,p1-ax5,"Part I, Ax. V",pattern,ok,,826,835,e the effect of that other object (II. xi.); but (I. Ax. v.) there is no such idea. Where
+234,p2-lem1-proof,"Lemma I, Proof",I. v.,1,p1-prop5,"Part I, Prop. V",pattern,ok,,149,154,"ished in respect of substance, is plain both from I. v. and I. viii. It is brought ou"
+234,p2-lem1-proof,"Lemma I, Proof",I. viii.,1,p1-prop8,"Part I, Prop. VIII",pattern,ok,,159,167,"espect of substance, is plain both from I. v. and I. viii. It is brought out still more "
+234,p2-lem1-proof,"Lemma I, Proof","I. xv, note.",1,p1-prop15-note,"Part I, Prop. XV, Note",pattern,ok,,210,222,". viii. It is brought out still more clearly from I. xv, note."
+236,p2-lem2-proof,"Lemma II, Proof",Def. i.,1,p2-def1,Def. I,pattern,ok,,106,113,"he conception of one and the same attribute (II., Def. i.). Further, in the fact that t"
+238,p2-lem3-proof,"Lemma III, Proof",Def. i.,1,p2-def1,Def. I,pattern,ok,,42,49,"Proof.—Bodies are individual things (II., Def. i.), which (Lemma I.) are distin"
+238,p2-lem3-proof,"Lemma III, Proof",Lemma I.,1,p2-lem1,Lemma I,manual,ok,"uppercase numeral, not picked up by the tokenizer",59,67,"dies are individual things (II., Def. i.), which (Lemma I.) are distinguished one from t"
+238,p2-lem3-proof,"Lemma III, Proof",I. xxviii.,1,p1-prop28,"Part I, Prop. XXVIII",pattern,ok,,143,153,om the other in respect to motion and rest; thus (I. xxviii.) each must necessarily be det
+238,p2-lem3-proof,"Lemma III, Proof",II. vi.,1,p2-prop6,Prop. VI,pattern,ok,,246,253,"tion or rest by another individual thing, namely (II. vi.), by another body, which othe"
+238,p2-lem3-proof,"Lemma III, Proof",Ax. i.,1,p2-ax1-bodies,Axiom I (after Prop. XIII),manual,ok,in the physical digression: Axiom I after Prop. xiii. (all bodies are in motion or at rest),299,305," vi.), by another body, which other body is also (Ax. i.) in motion or at rest. And th"
+246,p2-lem4-proof,"Lemma IV, Proof",Lemma i.,1,p2-lem1,Lemma I,pattern,ok,,15,23,Proof.—Bodies (Lemma i.) are not distinguished in res
+246,p2-lem4-proof,"Lemma IV, Proof",the last Def.,1,p2-lem3-def,Definition (after Lemma III),manual,ok,the Definition after Lemma iii. (union of bodies),148,161, actuality (formam) of an individual consists (by the last Def.) in a union of bodies; but th
+248,p2-lem5-proof,"Lemma V, Proof",the last Lemma,1,p2-lem4,Lemma IV,manual,ok,Lemma iv.,23,37,Proof.—The same as for the last Lemma.
+252,p2-lem7-proof,"Lemma VII, Proof",the definition of an individual prefixed to Lemma iv.,1,p2-lem3-def,Definition (after Lemma III),manual,ok,the Definition after Lemma iii.,40,93,Proof.—This proposition is evident from the definition of an individual prefixed to Lemma iv.
+252,p2-lem7-proof,"Lemma VII, Proof",Lemma iv.,1,,,manual,skip,replaced by the longer link below,84,93, from the definition of an individual prefixed to Lemma iv.
+253,p2-lem7-note,"Lemma VII, Note",Lemma vi.,1,p2-lem6,Lemma VI,pattern,ok,,619,628,"ould consist of several bodies, and therefore (by Lemma vi.) each part would admit, witho"
+261,p2-prop14-proof,"Prop. XIV, Proof",Post. iii.,1,p2-post3,Post. III,pattern,ok,,26,36,Proof.—The human body (by Post. iii. and vi.) is affected in very 
+261,p2-prop14-proof,"Prop. XIV, Proof",vi.,1,p2-post6,Post. VI,pattern,ok,,41,44,Proof.—The human body (by Post. iii. and vi.) is affected in very many way
+261,p2-prop14-proof,"Prop. XIV, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,164,172,very many ways of affecting external bodies. But (II. xii.) the human mind must perceive
+263,p2-prop15-proof,"Prop. XV, Proof",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,89,98," being of the human mind is the idea of the body (II. xiii.), which (Post. i.) is compose"
+263,p2-prop15-proof,"Prop. XV, Proof",Post. i.,1,p2-post1,Post. I,pattern,ok,,108,116," mind is the idea of the body (II. xiii.), which (Post. i.) is composed of a great numbe"
+263,p2-prop15-proof,"Prop. XV, Proof",II. viii. Coroll.,1,p2-prop8-cor,"Prop. VIII, Coroll.",pattern,ok,,272,289,"ach individual part whereof the body is composed (II. viii. Coroll.); therefore (II. vii.), the i"
+263,p2-prop15-proof,"Prop. XV, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,303,311," body is composed (II. viii. Coroll.); therefore (II. vii.), the idea of the human body "
+265,p2-prop16-proof,"Prop. XVI, Proof","Ax. i., after the Coroll. of Lemma iii.",1,p2-lem3-ax1,Axiom I (after Lemma III),pattern,ok,,155,194,"nd also from the nature of the affecting body (by Ax. i., after the Coroll. of Lemma iii.), wherefore their idea also n"
+265,p2-prop16-proof,"Prop. XVI, Proof",I. Ax. iv.,1,p1-ax4,"Part I, Ax. IV",pattern,ok,,239,249," iii.), wherefore their idea also necessarily (by I. Ax. iv.) involves the nature of both "
+269,p2-prop17-proof,"Prop. XVII, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,131,139,"to be thus affected, so long will the human mind (II. xii.) regard this modification of "
+269,p2-prop17-proof,"Prop. XVII, Proof",the last Prop.,1,p2-prop16,Prop. XVI,last-prop,ok,,190,204," regard this modification of the body—that is (by the last Prop.), it will have the idea of th"
+269,p2-prop17-proof,"Prop. XVII, Proof","II. xvi., Coroll. i.",1,p2-prop16-cor1,"Prop. XVI, Coroll. I",pattern,ok,,481,501,"ture of the external body; therefore the mind (by II. xvi., Coroll. i.) will regard the external bod"
+271,p2-prop17-cor-proof,"Prop. XVII, Coroll., Proof",Post. v.,1,p2-post5,Post. V,pattern,ok,,164,172,"parts, they change the surface of the last named (Post. v.); hence (Ax. ii., after the C"
+271,p2-prop17-cor-proof,"Prop. XVII, Coroll., Proof","Ax. ii., after the Coroll. of Lemma iii.",1,p2-lem3-ax2,Axiom II (after Lemma III),pattern,ok,,182,222," the surface of the last named (Post. v.); hence (Ax. ii., after the Coroll. of Lemma iii.) they are refracted therefrom"
+271,p2-prop17-cor-proof,"Prop. XVII, Coroll., Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,669,677," human body in the same manner, whereof the mind (II. xii.) will again take cognizance—t"
+271,p2-prop17-cor-proof,"Prop. XVII, Coroll., Proof",II. xvii.,1,p2-prop17,Prop. XVII,pattern,ok,,715,724,"nd (II. xii.) will again take cognizance—that is (II. xvii.), the mind will again regard "
+272,p2-prop17-note,"Prop. XVII, Note",II. xiii.,1,p2-prop13,Prop. XIII,manual,ok,"""Coroll. after II. xiii."": this translation omits that Corollary (Latin: hominem mente et corpore constare), so the link goes to Prop. xiii.",597,606," human body, as we feel it, exists (Coroll. after II. xiii.). Furthermore (II. vii. Corol"
+272,p2-prop17-note,"Prop. XVII, Note",II. vii. Coroll.,1,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,622,638,"t, exists (Coroll. after II. xiii.). Furthermore (II. vii. Coroll., II. xvi. Coroll. ii.), we cl"
+272,p2-prop17-note,"Prop. XVII, Note",II. xvi. Coroll. ii.,1,p2-prop16-cor2,"Prop. XVI, Coroll. II",pattern,ok,,640,660," after II. xiii.). Furthermore (II. vii. Coroll., II. xvi. Coroll. ii.), we clearly understand what "
+272,p2-prop17-note,"Prop. XVII, Note",I. Def. vii.,1,p1-def7,"Part I, Def. VII",pattern,ok,,2161,2173,"gination depend solely on its own nature—that is (I. Def. vii.), if this faculty of imaginat"
+274,p2-prop18-proof,"Prop. XVIII, Proof",II. xvii. Coroll.,1,p2-prop17-cor,"Prop. XVII, Coroll.",pattern,ok,,17,34,"Proof.—The mind (II. xvii. Coroll.) imagines any given body, bec"
+275,p2-prop18-note,"Prop. XVIII, Note",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,514,522,"cations of the human body are, strictly speaking (II. xvi.), those which involve the nat"
+277,p2-prop19-proof,"Prop. XIX, Proof",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,71,80," is the very idea or knowledge of the human body (II. xiii.), which (II. ix.) is in God, "
+277,p2-prop19-proof,"Prop. XIX, Proof",II. ix.,1,p2-prop9,Prop. IX,pattern,ok,,90,97,"r knowledge of the human body (II. xiii.), which (II. ix.) is in God, in so far as he i"
+277,p2-prop19-proof,"Prop. XIX, Proof",Post. iv.,1,p2-post4,Post. IV,pattern,ok,,224,233,"ticular thing actually existing: or, inasmuch as (Post. iv.) the human body stands in nee"
+277,p2-prop19-proof,"Prop. XIX, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,426,434,s the same as the order and connection of causes (II. vii.); this idea will therefore be
+277,p2-prop19-proof,"Prop. XIX, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,756,771,"titutes the nature of the human mind; that is (by II. xi. Coroll.), the human mind does not kno"
+277,p2-prop19-proof,"Prop. XIX, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,981,989," or the human mind perceives those modifications (II. xii.), and consequently (II. xvi.)"
+277,p2-prop19-proof,"Prop. XIX, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,1010,1018,"those modifications (II. xii.), and consequently (II. xvi.) the human body itself, and a"
+279,p2-prop20-proof,"Prop. XX, Proof",II. i.,1,p2-prop1,Prop. I,pattern,ok,,39,45,Proof.—Thought is an attribute of God (II. i.); therefore (II. iii.) there 
+279,p2-prop20-proof,"Prop. XX, Proof",II. iii.,1,p2-prop3,Prop. III,pattern,ok,,59,67,ought is an attribute of God (II. i.); therefore (II. iii.) there must necessarily be in
+279,p2-prop20-proof,"Prop. XX, Proof",II. xi.,1,p2-prop11,Prop. XI,pattern,ok,,201,208,"difications, consequently also of the human mind (II. xi.). Further, this idea or knowl"
+279,p2-prop20-proof,"Prop. XX, Proof",II. ix.,1,p2-prop9,Prop. IX,pattern,ok,,382,389, affected by another idea of an individual thing (II. ix.). But (II. vii.) the order an
+279,p2-prop20-proof,"Prop. XX, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,397,405,other idea of an individual thing (II. ix.). But (II. vii.) the order and connection of 
+281,p2-prop21-proof,"Prop. XXI, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,113,121,"he fact, that the body is the object of the mind (II. xii. and xiii.); and so for the sa"
+281,p2-prop21-proof,"Prop. XXI, Proof",xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,126,131, the body is the object of the mind (II. xii. and xiii.); and so for the same reason 
+282,p2-prop21-note,"Prop. XXI, Note",II. vii.,1,p2-prop7-note,"Prop. VII, Note",pattern,ok,,95,103,ore clearly from what we have said in the note to II. vii. We there showed that the idea
+282,p2-prop21-note,"Prop. XXI, Note",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,176,185,"he idea of body and body, that is, mind and body (II. xiii.), are one and the same indivi"
+284,p2-prop22-proof,"Prop. XXII, Proof",II. xx.,1,p2-prop20,Prop. XX,pattern,ok,,199,206, modifications. This is proved in the same way as II. xx. But the ideas of the modifica
+284,p2-prop22-proof,"Prop. XXII, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,277,285," modifications of the body are in the human mind (II. xii.), that is, in God, in so far "
+284,p2-prop22-proof,"Prop. XXII, Proof",II. xxi.,1,p2-prop21,Prop. XXI,pattern,ok,,485,493,"the knowledge or idea of the human mind, that is (II. xxi.), they will be in the human m"
+286,p2-prop23-proof,"Prop. XXIII, Proof",II. xx.,1,p2-prop20,Prop. XX,pattern,ok,,42,49,Proof.—The idea or knowledge of the mind (II. xx.) follows in God in the same m
+286,p2-prop23-proof,"Prop. XXIII, Proof",II. xix.,1,p2-prop19,Prop. XIX,pattern,ok,,178,186, as the idea or knowledge of the body. But since (II. xix.) the human mind does not know
+286,p2-prop23-proof,"Prop. XXIII, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,249,264,"ind does not know the human body itself, that is (II. xi. Coroll.), since the knowledge of the "
+286,p2-prop23-proof,"Prop. XXIII, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,719,727,"ted, involve the nature of the human body itself (II. xvi.), that is (II. xiii.), they a"
+286,p2-prop23-proof,"Prop. XXIII, Proof",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,739,748,"ure of the human body itself (II. xvi.), that is (II. xiii.), they agree with the nature "
+286,p2-prop23-proof,"Prop. XXIII, Proof",the last Prop.,1,p2-prop22,Prop. XXII,last-prop,ok,,882,896,cessarily involves knowledge of the mind; but (by the last Prop.) the knowledge of these ideas
+288,p2-prop24-proof,"Prop. XXIV, Proof",Def. after Lemma iii.,1,p2-lem3-def,Definition (after Lemma III),pattern,ok,,180,201,"tions to one another in a certain fixed relation (Def. after Lemma iii.), not in so far as they can b"
+288,p2-prop24-proof,"Prop. XXIV, Proof",Post. i.,1,p2-post1,Post. I,pattern,ok,,353,361,"of the human body are highly complex individuals (Post. i.), whose parts (Lemma iv.) can"
+288,p2-prop24-proof,"Prop. XXIV, Proof",Lemma iv.,1,p2-lem4,Lemma IV,pattern,ok,,377,386,"ghly complex individuals (Post. i.), whose parts (Lemma iv.) can be separated from the hu"
+288,p2-prop24-proof,"Prop. XXIV, Proof","Ax. i., after Lemma iii.",1,p2-lem3-ax1,Axiom I (after Lemma III),pattern,ok,,545,569,"e latter, and they can communicate their motions (Ax. i., after Lemma iii.) to other bodies in another r"
+288,p2-prop24-proof,"Prop. XXIV, Proof",II. iii.,1,p2-prop3,Prop. III,pattern,ok,,619,627,) to other bodies in another relation; therefore (II. iii.) the idea or knowledge of eac
+288,p2-prop24-proof,"Prop. XXIV, Proof",II. ix.,1,p2-prop9,Prop. IX,pattern,ok,,690,697," knowledge of each part will be in God, inasmuch (II. ix.) as he is regarded as affecte"
+288,p2-prop24-proof,"Prop. XXIV, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,846,854,ior in the order of nature to the aforesaid part (II. vii.). We may affirm the same thin
+288,p2-prop24-proof,"Prop. XXIV, Proof",II. xiii,1,p2-prop13,Prop. XIII,pattern,ok,,1210,1218,a which constitutes the nature of the human mind (II. xiii); therefore (II. xi. Coroll.)
+288,p2-prop24-proof,"Prop. XXIV, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,1232,1247,"e nature of the human mind (II. xiii); therefore (II. xi. Coroll.), the human mind does not inv"
+290,p2-prop25-proof,"Prop. XXV, Proof",II. ix.,1,p2-prop9,Prop. IX,pattern,ok,,326,333,"an body, the knowledge or idea thereof is in God (II. ix.), in so far as God is regarde"
+290,p2-prop25-proof,"Prop. XXV, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,416,424,"s affected by the idea of a further thing, which (II. vii.) is naturally prior to the sa"
+292,p2-prop26-proof,"Prop. XXVI, Proof",II. vii.,1,p2-prop7,Prop. VII,pattern,ok,,79,87,"n no way affected by a given external body, then (II. vii.) neither is the idea of the h"
+292,p2-prop26-proof,"Prop. XXVI, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,378,386,"ed in any way by a given external body, thus far (II. xvi. and Coroll.) it perceives tha"
+292,p2-prop26-proof,"Prop. XXVI, Proof",Coroll.,1,p2-prop16-cor1,"Prop. XVI, Coroll. I",manual,ok,Latin: per Prop. 16 hujus cum ejus Coroll. 1 (perceiving external bodies),391,398," by a given external body, thus far (II. xvi. and Coroll.) it perceives that external b"
+294,p2-prop26-cor-proof,"Prop. XXVI, Coroll., Proof",II. xvii. note,1,p2-prop17-note,"Prop. XVII, Note",pattern,ok,,136,150,"ons of its own body, we say that it imagines (see II. xvii. note); now the mind can only imagi"
+294,p2-prop26-cor-proof,"Prop. XXVI, Coroll., Proof",II. xxv.,1,p2-prop25,Prop. XXV,pattern,ok,,235,243,"ternal bodies as actually existing. Therefore (by II. xxv.), in so far as the mind imagi"
+296,p2-prop27-proof,"Prop. XXVII, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,164,172,"n body is regarded as affected in a given manner (II. xvi.). But, inasmuch as the human "
+298,p2-prop28-proof,"Prop. XXVIII, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,122,130,re both of the human body and of external bodies (II. xvi.); they must involve the natur
+298,p2-prop28-proof,"Prop. XXVIII, Proof",Post. iii.,1,p2-post3,Post. III,pattern,ok,,245,255,"so of its parts; for the modifications are modes (Post. iii.), whereby the parts of the hu"
+298,p2-prop28-proof,"Prop. XXVIII, Proof",II. xxiv.,1,p2-prop24,Prop. XXIV,pattern,ok,,362,371,", the human body as a whole are affected. But (by II. xxiv., xxv.) the adequate knowledge"
+298,p2-prop28-proof,"Prop. XXVIII, Proof",xxv.,1,p2-prop25,Prop. XXV,pattern,ok,,373,377," body as a whole are affected. But (by II. xxiv., xxv.) the adequate knowledge of ex"
+301,p2-prop29-proof,"Prop. XXIX, Proof",II. xxvii.,1,p2-prop27,Prop. XXVII,pattern,ok,,53,63,of.—The idea of a modification of the human body (II. xxvii.) does not involve an adequate
+301,p2-prop29-proof,"Prop. XXIX, Proof",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,187,196, does not adequately express its nature; that is (II. xiii.) it does not agree with the n
+301,p2-prop29-proof,"Prop. XXIX, Proof",I. Ax. vi,1,p1-ax6,"Part I, Ax. VI",pattern,ok,,267,276,ith the nature of the mind adequately; therefore (I. Ax. vi) the idea of this idea does n
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xxiii.,1,p2-prop23,Prop. XXIII,pattern,ok,,334,344,perceives the ideas of the modifications of body (II. xxiii.). It only perceives its own b
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xix.,1,p2-prop19,Prop. XIX,pattern,ok,,379,387,ody (II. xxiii.). It only perceives its own body (II. xix.) through the ideas of the mod
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xxix.,1,p2-prop29,Prop. XXIX,pattern,ok,,586,595,"tion, it has not an adequate knowledge of itself (II. xxix.), nor of its own body (II. xx"
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xxvii.,1,p2-prop27,Prop. XXVII,pattern,ok,,619,629,"ledge of itself (II. xxix.), nor of its own body (II. xxvii.), nor of external bodies (II."
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xxv.,1,p2-prop25,Prop. XXV,pattern,ok,,656,664,"ts own body (II. xxvii.), nor of external bodies (II. xxv.), but only a fragmentary and "
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",II. xxviii.,1,p2-prop28,Prop. XXVIII,pattern,ok,,722,733,nly a fragmentary and confused knowledge thereof (II. xxviii. and note). Q.E.D.
+302,p2-prop29-cor,"Prop. XXIX, Coroll.",note,1,p2-prop28-note,"Prop. XXVIII, Note",pattern,ok,,738,742,y and confused knowledge thereof (II. xxviii. and note). Q.E.D.
+305,p2-prop30-proof,"Prop. XXX, Proof",II. Ax. i.,1,p2-ax1,Ax. I,pattern,ok,,64,74,"ation of our body does not depend on its essence (II. Ax. i.), nor on the absolute nature "
+305,p2-prop30-proof,"Prop. XXX, Proof",I. xxi.,1,p1-prop21,"Part I, Prop. XXI",pattern,ok,,112,119," (II. Ax. i.), nor on the absolute nature of God (I. xxi.). But (I. xxviii.) it is cond"
+305,p2-prop30-proof,"Prop. XXX, Proof",I. xxviii.,1,p1-prop28,"Part I, Prop. XXVIII",pattern,ok,,127,137,nor on the absolute nature of God (I. xxi.). But (I. xxviii.) it is conditioned to exist a
+305,p2-prop30-proof,"Prop. XXX, Proof",II. ix. Coroll.,1,p2-prop9-cor,"Prop. IX, Coroll.",pattern,ok,,666,681,o far as he has the idea of the human body only. (II. ix. Coroll.) Wherefore the knowledge of t
+305,p2-prop30-proof,"Prop. XXX, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,850,865,"nstituting the nature of the human mind; that is (II. xi. Coroll.), this knowledge is very inad"
+307,p2-prop31-proof,"Prop. XXXI, Proof",I. xxviii.,1,p1-prop28,"Part I, Prop. XXVIII",pattern,ok,,248,258,"e conditioned by a third, and so on to infinity. (I. xxviii.) As we have shown in the fore"
+307,p2-prop31-proof,"Prop. XXXI, Proof",the foregoing proposition,1,p2-prop30,Prop. XXX,last-prop,ok,,280,305," on to infinity. (I. xxviii.) As we have shown in the foregoing proposition, from this common property of"
+308,p2-prop31-cor,"Prop. XXXI, Coroll.",the last Prop.,1,p2-prop31,Prop. XXXI,manual,ok,reviewed: no adequate idea of the duration of things = Prop. xxxi.,141,155,"e can have no adequate idea of their duration (by the last Prop.), and this is what we must un"
+308,p2-prop31-cor,"Prop. XXXI, Coroll.","I. xxxiii., Note i.",1,p1-prop33-note1,"Part I, Prop. XXXIII, Note I",pattern,ok,,244,263,"by the contingency and perishableness of things. (I. xxxiii., Note i.) For (I. xxix.), except in th"
+308,p2-prop31-cor,"Prop. XXXI, Coroll.",I. xxix.,1,p1-prop29,"Part I, Prop. XXIX",pattern,ok,,270,278,"ishableness of things. (I. xxxiii., Note i.) For (I. xxix.), except in this sense, nothi"
+310,p2-prop32-proof,"Prop. XXXII, Proof",II. vii. Coroll.,1,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,77,93,"in God agree in every respect with their objects (II. vii. Coroll.), therefore (I. Ax. vi.) they"
+310,p2-prop32-proof,"Prop. XXXII, Proof",I. Ax. vi.,1,p1-ax6,"Part I, Ax. VI",pattern,ok,,107,117,"with their objects (II. vii. Coroll.), therefore (I. Ax. vi.) they are all true. Q.E.D."
+312,p2-prop33-proof,"Prop. XXXIII, Proof",II. xxxii.,1,p2-prop32,Prop. XXXII,pattern,ok,,182,192,sehood. Such a mode of thinking cannot be in God (II. xxxii.); external to God it cannot b
+312,p2-prop33-proof,"Prop. XXXIII, Proof",I. xv.,1,p1-prop15,"Part I, Prop. XV",pattern,ok,,241,247,.); external to God it cannot be or be conceived (I. xv.). Therefore there is nothing 
+314,p2-prop34-proof,"Prop. XXXIV, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,87,102," is adequate and perfect, we say, in other words (II. xi. Coroll.), that the idea is adequate a"
+314,p2-prop34-proof,"Prop. XXXIV, Proof",II. xxxii.,1,p2-prop32,Prop. XXXII,pattern,ok,,218,228,"onstitutes the essence of our mind; consequently (II. xxxii.), we say that such an idea is"
+316,p2-prop35-proof,"Prop. XXXV, Proof",II. xxxiii.,1,p2-prop33,Prop. XXXIII,pattern,ok,,81,92,"e in ideas, which causes them to be called false (II. xxxiii.); but falsity cannot consist "
+317,p2-prop35-note,"Prop. XXXV, Note",II. xvii.,1,p2-prop17-note,"Prop. XVII, Note",pattern,ok,,21,30,Note.—In the note to II. xvii. I explained how error consist
+319,p2-prop36-proof,"Prop. XXXVI, Proof",I. xv.,1,p1-prop15,"Part I, Prop. XV",pattern,ok,,29,35,"Proof.—All ideas are in God (I. xv.), and in so far as they are r"
+319,p2-prop36-proof,"Prop. XXXVI, Proof",II. xxxii.,1,p2-prop32,Prop. XXXII,pattern,ok,,90,100,d in so far as they are referred to God are true (II. xxxii.) and (II. vii. Coroll.) adequ
+319,p2-prop36-proof,"Prop. XXXVI, Proof",II. vii. Coroll.,1,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,107,123,ey are referred to God are true (II. xxxii.) and (II. vii. Coroll.) adequate; therefore there ar
+319,p2-prop36-proof,"Prop. XXXVI, Proof",II. xxiv.,1,p2-prop24,Prop. XXIV,pattern,ok,,232,241,"uate, except in respect to a particular mind (cf. II. xxiv. and xxviii.); therefore all i"
+319,p2-prop36-proof,"Prop. XXXVI, Proof",xxviii.,1,p2-prop28,Prop. XXVIII,pattern,ok,,246,253,"n respect to a particular mind (cf. II. xxiv. and xxviii.); therefore all ideas, whethe"
+319,p2-prop36-proof,"Prop. XXXVI, Proof",II. vi.,1,p2-prop6,Prop. VI,pattern,ok,,339,346,"uate or inadequate, follow by the same necessity (II. vi.). Q.E.D."
+320,p2-prop37,Prop. XXXVII,Lemma II.,1,p2-lem2,Lemma II,manual,ok,"uppercase numeral, not picked up by the tokenizer",47,56,"PROP. XXXVII. That which is common to all (cf. Lemma II., above), and which is equally"
+321,p2-prop37-proof,"Prop. XXXVII, Proof",II. Def. ii.,1,p2-def2,Def. II,pattern,ok,,145,157,"ular thing; for instance, the essence of B. Then (II. Def. ii.) it cannot without B either e"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",II. vii. Coroll.,1,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,240,256,"idea thereof in God will necessarily be adequate (II. vii. Coroll.), both in so far as God has t"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,398,406,"ea of the modifications of the human body, which (II. xvi., xxv., xxvii.) involve in par"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",xxv.,1,p2-prop25,Prop. XXV,pattern,ok,,408,412,"modifications of the human body, which (II. xvi., xxv., xxvii.) involve in part the "
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",xxvii.,1,p2-prop27,Prop. XXVII,pattern,ok,,414,420,"cations of the human body, which (II. xvi., xxv., xxvii.) involve in part the nature o"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",II. xii.,1,p2-prop12,Prop. XII,pattern,ok,,511,519," body and the nature of external bodies; that is (II. xii., xiii.), the idea in God will"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,521,526,"the nature of external bodies; that is (II. xii., xiii.), the idea in God will necess"
+323,p2-prop38-proof,"Prop. XXXVIII, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,708,723, which are in the human mind. Therefore the mind (II. xi. Coroll.) necessarily perceives A adeq
+324,p2-prop38-cor,"Prop. XXXVIII, Coroll.",Lemma ii.,1,p2-lem2,Lemma II,pattern,ok,,94,103,rtain ideas or notions common to all men; for (by Lemma ii.) all bodies agree in certain 
+324,p2-prop38-cor,"Prop. XXXVIII, Coroll.",the foregoing Prop.,1,p2-prop38,Prop. XXXVIII,manual,ok,reviewed: what is common to all is perceived adequately = Prop. xxxviii.,153,172,") all bodies agree in certain respects, which (by the foregoing Prop.) must be adequately or clearl"
+326,p2-prop39-proof,"Prop. XXXIX, Proof",II. vii. Coroll.,1,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,262,278,"hole, there will be an adequate idea of A in God (II. vii. Coroll.), both in so far as he has th"
+326,p2-prop39-proof,"Prop. XXXIX, Proof",II. xvi.,1,p2-prop16,Prop. XVI,pattern,ok,,591,599,"of this modification will involve the property A (II. xvi.), and therefore (II. vii. Cor"
+326,p2-prop39-proof,"Prop. XXXIX, Proof",II. vii. Coroll.,2,p2-prop7-cor,"Prop. VII, Coroll.",pattern,ok,,617,633,"involve the property A (II. xvi.), and therefore (II. vii. Coroll.) the idea of this modificatio"
+326,p2-prop39-proof,"Prop. XXXIX, Proof",II. xiii.,1,p2-prop13,Prop. XIII,pattern,ok,,801,810," affected by the idea of the human body; that is (II. xiii.), in so far as he constitutes"
+326,p2-prop39-proof,"Prop. XXXIX, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,882,897,stitutes the nature of the human mind; therefore (II. xi. Coroll.) this idea is also adequate i
+329,p2-prop40-proof,"Prop. XL, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,159,174,"ich are therein adequate, we say, in other words (II. xi. Coroll.), that an idea is in the divi"
+330,p2-prop40-note1,"Prop. XL, Note I",II. xvii. note,1,p2-prop17-note,"Prop. XVII, Note",pattern,ok,,1313,1327,er of images (what an image is I explained in the II. xvii. note) within itself at the same ti
+330,p2-prop40-note1,"Prop. XL, Note I",II. Prop. xvii. Coroll.,1,p2-prop17-cor,"Prop. XVII, Coroll.",pattern,ok,,1627,1650," with another. This being so, it is evident (from II. Prop. xvii. Coroll., and xviii.) that the human m"
+330,p2-prop40-note1,"Prop. XL, Note I",xviii.,1,p2-prop18,Prop. XVIII,pattern,ok,,1656,1662," it is evident (from II. Prop. xvii. Coroll., and xviii.) that the human mind can dist"
+332,p2-prop40-note2,"Prop. XL, Note II",II. xxix. Coroll.,1,p2-prop29-cor,"Prop. XXIX, Coroll.",pattern,ok,,241,258,"confusedly, and without order through our senses (II. xxix. Coroll.); I have settled to call such"
+334,p2-prop40-note2,"Prop. XL, Note II",II. xviii. note,1,p2-prop18-note,"Prop. XVIII, Note",pattern,ok,,186,201,similar to those through which we imagine things (II. xviii. note). I shall call both these way
+334,p2-prop40-note2,"Prop. XL, Note II",II. xxxviii. Coroll.,1,p2-prop38-cor,"Prop. XXXVIII, Coroll.",pattern,ok,,414,434,", and adequate ideas of the properties of things (II. xxxviii. Coroll., xxxix. and Coroll. and xl.);"
+334,p2-prop40-note2,"Prop. XL, Note II",xxxix.,1,p2-prop39,Prop. XXXIX,pattern,ok,,436,442,"f the properties of things (II. xxxviii. Coroll., xxxix. and Coroll. and xl.); this I "
+334,p2-prop40-note2,"Prop. XL, Note II",Coroll.,1,p2-prop39-cor,"Prop. XXXIX, Coroll.",pattern,ok,,447,454,"rties of things (II. xxxviii. Coroll., xxxix. and Coroll. and xl.); this I call reason "
+334,p2-prop40-note2,"Prop. XL, Note II",xl.,1,p2-prop40,Prop. XL,pattern,ok,,459,462,"ngs (II. xxxviii. Coroll., xxxix. and Coroll. and xl.); this I call reason and know"
+337,p2-prop41-proof,"Prop. XLI, Proof",the foregoing note,1,p2-prop40-note2,"Prop. XL, Note II",manual,ok,Note II to Prop. xl. (the three kinds of knowledge),50,68,"Proof.—To knowledge of the first kind we have (in the foregoing note) assigned all those ideas, wh"
+337,p2-prop41-proof,"Prop. XLI, Proof",II. xxxv.,1,p2-prop35,Prop. XXXV,pattern,ok,,195,204," kind of knowledge is the only source of falsity (II. xxxv.). Furthermore, we assigned to"
+337,p2-prop41-proof,"Prop. XLI, Proof",II. xxxiv.,1,p2-prop34,Prop. XXXIV,pattern,ok,,351,361,uate; therefore these kinds are necessarily true (II. xxxiv.). Q.E.D.
+339,p2-prop42-proof,"Prop. XLII, Proof","II. xl., note ii.",1,p2-prop40-note2,"Prop. XL, Note II",pattern,ok,,153,170,"have an adequate idea of true and false. That is (II. xl., note ii.), he must know the true and t"
+341,p2-prop43-proof,"Prop. XLIII, Proof",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,129,144,s displayed through the nature of the human mind (II. xi. Coroll.). Let us suppose that there i
+341,p2-prop43-proof,"Prop. XLIII, Proof",II. xx.,1,p2-prop20,Prop. XX,pattern,ok,,370,377,"referred to him in the same way as the idea A (by II. xx., whereof the proof is of univ"
+341,p2-prop43-proof,"Prop. XLIII, Proof",II. xi. Coroll.,2,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,620,635,"e referred to God in the same manner; that is (by II. xi. Coroll.), the adequate idea of the id"
+341,p2-prop43-proof,"Prop. XLIII, Proof",II. xxxiv.,1,p2-prop34,Prop. XXXIV,pattern,ok,,785,795," who has an adequate idea or knows a thing truly (II. xxxiv.), must at the same time have "
+342,p2-prop43-note,"Prop. XLIII, Note",II. xxi.,1,p2-prop21-note,"Prop. XXI, Note",pattern,ok,,33,41,Note.—I explained in the note to II. xxi. what is meant by the idea of 
+342,p2-prop43-note,"Prop. XLIII, Note",the foregoing proposition,1,p2-prop43,Prop. XLIII,manual,ok,reviewed: the note remarks on Prop. xliii. itself,103,128,nt by the idea of an idea; but we may remark that the foregoing proposition is in itself sufficiently pla
+343,p2-prop43-note,"Prop. XLIII, Note",II. xxxv.,1,p2-prop35,Prop. XXXV,pattern,ok,,692,701," and a false idea is plain: from what was said in II. xxxv., the former is related to the"
+343,p2-prop43-note,"Prop. XLIII, Note",II. xix.,1,p2-prop19,Prop. XIX,pattern,ok,,820,828,auses of falsity I have set forth very clearly in II. xix. and II. xxxv. with the note. 
+343,p2-prop43-note,"Prop. XLIII, Note",II. xxxv.,2,p2-prop35,Prop. XXXV,pattern,ok,,833,842,ity I have set forth very clearly in II. xix. and II. xxxv. with the note. From what is t
+343,p2-prop43-note,"Prop. XLIII, Note",II. xi. Coroll.,1,p2-prop11-cor,"Prop. XI, Coroll.",pattern,ok,,1398,1413," truly, is part of the infinite intellect of God (II. xi. Coroll.); therefore, the clear and di"
+345,p2-prop44-proof,"Prop. XLIV, Proof",II. xli.,1,p2-prop41,Prop. XLI,pattern,ok,,63,71,"in the nature of reason to perceive things truly (II. xli.), namely (I. Ax. vi.), as the"
+345,p2-prop44-proof,"Prop. XLIV, Proof",I. Ax. vi.,1,p1-ax6,"Part I, Ax. VI",pattern,ok,,82,92,"ason to perceive things truly (II. xli.), namely (I. Ax. vi.), as they are in themselves—t"
+345,p2-prop44-proof,"Prop. XLIV, Proof",I. xxix.,1,p1-prop29,"Part I, Prop. XXIX",pattern,ok,,130,138," (I. Ax. vi.), as they are in themselves—that is (I. xxix.), not as contingent, but as n"
+347,p2-prop44-note,"Prop. XLIV, Note",II. xvii.,1,p2-prop17,Prop. XVII,pattern,ok,,93,102,"ses, I will briefly explain. We have shown above (II. xvii. and Coroll.) that the mind al"
+347,p2-prop44-note,"Prop. XLIV, Note",Coroll.,1,p2-prop17-cor,"Prop. XVII, Coroll.",pattern,ok,,107,114,iefly explain. We have shown above (II. xvii. and Coroll.) that the mind always regards
+347,p2-prop44-note,"Prop. XLIV, Note",II. xviii.,1,p2-prop18,Prop. XVIII,pattern,ok,,289,299,"ch exclude their existence and presence. Further (II. xviii.), we showed that, if the huma"
+347,p2-prop44-note,"Prop. XLIV, Note",II. Prop. xviii.,1,p2-prop18,Prop. XVIII,pattern,ok,,992,1008,"in sees Peter in the morning. It is evident, from II. Prop. xviii., that, as soon as he sees the"
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",II. xliv.,1,p2-prop44,Prop. XLIV,pattern,ok,,92,101,"gard things, not as contingent, but as necessary (II. xliv.). Reason perceives this neces"
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",II. xli.,1,p2-prop41,Prop. XLI,pattern,ok,,147,155,"liv.). Reason perceives this necessity of things (II. xli.) truly—that is (I. Ax. vi.), "
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",I. Ax. vi.,1,p1-ax6,"Part I, Ax. VI",pattern,ok,,172,182,"his necessity of things (II. xli.) truly—that is (I. Ax. vi.), as it is in itself. But (I."
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",I. xvi.,1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,210,217,"ly—that is (I. Ax. vi.), as it is in itself. But (I. xvi.) this necessity of things is "
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",II. xxxviii.,1,p2-prop38,Prop. XXXVIII,pattern,ok,,436,448,"may add that the bases of reason are the notions (II. xxxviii.), which answer to things comm"
+349,p2-prop44-cor2-proof,"Prop. XLIV, Coroll. II, Proof",II. xxxvii.,1,p2-prop37,Prop. XXXVII,pattern,ok,,500,511," which answer to things common to all, and which (II. xxxvii.) do not answer to the essence"
+351,p2-prop45-proof,"Prop. XLV, Proof",II. viii.,1,p2-prop8,Prop. VIII,pattern,ok,,131,140, the existence and the essence of the said thing (II. viii.). Now particular things canno
+351,p2-prop45-proof,"Prop. XLV, Proof",I. xv.,1,p1-prop15,"Part I, Prop. XV",pattern,ok,,198,204,"articular things cannot be conceived without God (I. xv.); but, inasmuch as (II. vi.) "
+351,p2-prop45-proof,"Prop. XLV, Proof",II. vi.,1,p2-prop6,Prop. VI,pattern,ok,,225,232,"conceived without God (I. xv.); but, inasmuch as (II. vi.) they have God for their caus"
+351,p2-prop45-proof,"Prop. XLV, Proof",I. Ax. iv.,1,p1-ax4,"Part I, Ax. IV",pattern,ok,,394,404," are modes, their ideas must necessarily involve (I. Ax. iv.) the conception of the attrib"
+351,p2-prop45-proof,"Prop. XLV, Proof",I. vi.,1,p1-prop6,"Part I, Prop. VI",pattern,ok,,463,469,"ception of the attributes of those ideas—that is (I. vi.), the eternal and infinite es"
+352,p2-prop45-note,"Prop. XLV, Note",I. xvi.,1,p1-prop16,"Part I, Prop. XVI",pattern,ok,,336,343," ways from the eternal necessity of God's nature (I. xvi.). I am speaking, I repeat, of"
+352,p2-prop45-note,"Prop. XLV, Note",I. xxiv. Coroll.,1,p1-prop24-cor,"Part I, Prop. XXIV, Coroll.",pattern,ok,,671,687,s from the eternal necessity of God's nature (cf. I. xxiv. Coroll.).
+354,p2-prop46-proof,"Prop. XLVI, Proof",the last proposition,1,p2-prop45,Prop. XLV,last-prop,ok,,20,40,Proof.—The proof of the last proposition is universal; and whether a t
+354,p2-prop46-proof,"Prop. XLVI, Proof",the last Prop.,1,p2-prop45,Prop. XLV,last-prop,ok,,167,181,"ea thereof, whether of the whole or of a part (by the last Prop.), will involve God's eternal "
+354,p2-prop46-proof,"Prop. XLVI, Proof",II. xxxviii.,1,p2-prop38,Prop. XXXVIII,pattern,ok,,390,402, equally in the part and in the whole; therefore (II. xxxviii.) this knowledge will be adequ
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xxii.,1,p2-prop22,Prop. XXII,pattern,ok,,33,42,"Proof.—The human mind has ideas (II. xxii.), from which (II. xxiii.) it "
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xxiii.,1,p2-prop23,Prop. XXIII,pattern,ok,,57,67,"The human mind has ideas (II. xxii.), from which (II. xxiii.) it perceives itself and its "
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xix.,1,p2-prop19,Prop. XIX,pattern,ok,,107,115,II. xxiii.) it perceives itself and its own body (II. xix.) and external bodies (II. xvi
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xvi. Coroll. i.,1,p2-prop16-cor1,"Prop. XVI, Coroll. I",pattern,ok,,138,157, and its own body (II. xix.) and external bodies (II. xvi. Coroll. i. and II. xvii.) as actually ex
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xvii.,1,p2-prop17,Prop. XVII,pattern,ok,,162,171,ix.) and external bodies (II. xvi. Coroll. i. and II. xvii.) as actually existing; theref
+356,p2-prop47-proof,"Prop. XLVII, Proof",II. xlv.,1,p2-prop45,Prop. XLV,pattern,ok,,206,214,. and II. xvii.) as actually existing; therefore (II. xlv. and xlvi.) it has an adequate
+356,p2-prop47-proof,"Prop. XLVII, Proof",xlvi.,1,p2-prop46,Prop. XLVI,pattern,ok,,219,224,i.) as actually existing; therefore (II. xlv. and xlvi.) it has an adequate knowledge
+357,p2-prop47-note,"Prop. XLVII, Note",II. xl.,1,p2-prop40-note2,"Prop. XL, Note II",manual,ok,the third kind of knowledge is in Note II,303,310,"ind of knowledge of which we spoke in the note to II. xl., and of the excellence and us"
+359,p2-prop48-proof,"Prop. XLVIII, Proof",II. xi.,1,p2-prop11,Prop. XI,pattern,ok,,57,64,"The mind is a fixed and definite mode of thought (II. xi.), therefore it cannot be the "
+359,p2-prop48-proof,"Prop. XLVIII, Proof",I. xvii. Coroll. ii.,1,p1-prop17-cor2,"Part I, Prop. XVII, Coroll. II",pattern,ok,,121,141,"efore it cannot be the free cause of its actions (I. xvii. Coroll. ii.); in other words, it cannot h"
+359,p2-prop48-proof,"Prop. XLVIII, Proof",I. xxviii.,1,p1-prop28,"Part I, Prop. XXVIII",pattern,ok,,237,247,faculty of positive or negative volition; but (by I. xxviii.) it must be determined by a c
+360,p2-prop48-note,"Prop. XLVIII, Note",the Appendix to Part I.,1,p1-app,"Part I, Appendix",manual,ok,"""Appendix"" is not a token of the tokenizer",565,588,"to consider themselves free has been set forth in the Appendix to Part I. But, before I proceed further"
+360,p2-prop48-note,"Prop. XLVIII, Note",the following proposition,1,p2-prop49,Prop. XLIX,manual,ok,forward reference to Prop. xlix.,1300,1325," as it is an idea, involves. On which subject see the following proposition, and II. Def. iii., lest the "
+360,p2-prop48-note,"Prop. XLVIII, Note",II. Def. iii.,1,p2-def3,Def. III,pattern,ok,,1331,1344," which subject see the following proposition, and II. Def. iii., lest the idea of pictures sh"
+362,p2-prop49-proof,"Prop. XLIX, Proof",II. Ax. iii.,1,p2-ax3,Ax. III,pattern,ok,,649,661,"hout B. Further, this affirmation cannot be made (II. Ax. iii.) without the idea of a triang"
+364,p2-prop49-cor-proof,"Prop. XLIX, Coroll., Proof",II. xlviii.,1,p2-prop48,Prop. XLVIII,pattern,ok,,85,96,othing beyond the individual volitions and ideas (II. xlviii. and note). But a particular v
+364,p2-prop49-cor-proof,"Prop. XLIX, Coroll., Proof",note,1,p2-prop48-note,"Prop. XLVIII, Note",pattern,ok,,101,105,e individual volitions and ideas (II. xlviii. and note). But a particular volition a
+364,p2-prop49-cor-proof,"Prop. XLIX, Coroll., Proof",the foregoing Prop.,1,p2-prop49,Prop. XLIX,manual,ok,reviewed: volition and idea are one and the same = Prop. xlix.,181,200,"on and a particular idea are one and the same (by the foregoing Prop.); therefore, will and underst"
+365,p2-prop49-note,"Prop. XLIX, Note",II. xliv. note,1,p2-prop44-note,"Prop. XLIV, Note",pattern,ok,,582,596," which should cause his imagination to waver (see II. xliv. note). Thus, although the man be a"
+365,p2-prop49-note,"Prop. XLIX, Note",II. xliii.,1,p2-prop43,Prop. XLIII,pattern,ok,,748,758,"ain. For by certainty we mean something positive (II. xliii. and note), not merely the abs"
+365,p2-prop49-note,"Prop. XLIX, Note",note,1,p2-prop43-note,"Prop. XLIII, Note",pattern,ok,,763,767,"tainty we mean something positive (II. xliii. and note), not merely the absence of d"
+366,p2-prop49-note,"Prop. XLIX, Note",the foregoing proposition,1,p2-prop49,Prop. XLIX,manual,ok,reviewed: the note explains Prop. xlix. (and its corollary),23,48,"However, in order that the foregoing proposition may be fully explained, I wil"
+372,p2-prop49-note,"Prop. XLIX, Note",II. xvii. Coroll.,1,p2-prop17-cor,"Prop. XVII, Coroll.",pattern,ok,,497,514," imagination involves the existence of the horse (II. xvii. Coroll.), and the boy does not percei"
+373,p2-prop49-note,"Prop. XLIX, Note",II. xvii. note,1,p2-prop17-note,"Prop. XVII, Note",pattern,ok,,175,189,"ns, regarded in themselves, do not involve error (II. xvii. note); but I deny, that a man does"
+375,p2-prop49-note,"Prop. XLIX, Note",II. xxxv. note,1,p2-prop35-note,"Prop. XXXV, Note",pattern,ok,,372,386,"hich constitutes the actual reality of falsehood (II. xxxv. note, and xlvii. note)."
+375,p2-prop49-note,"Prop. XLIX, Note",xlvii. note,1,p2-prop47-note,"Prop. XLVII, Note",pattern,ok,,392,403," actual reality of falsehood (II. xxxv. note, and xlvii. note)."
