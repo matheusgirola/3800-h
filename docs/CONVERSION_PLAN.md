@@ -90,6 +90,12 @@ curl -s -F "file=@3800-h-tooltips.html;type=text/html" -F "profile=css3" -F "out
 - O texto do pop-up é rótulo + primeiro parágrafo do alvo, sem o numeral
   inicial e sem as marcas de nota de rodapé.
 - Em referências entre partes, o rótulo leva a parte (“Part I, Prop. XI. …”).
+- **Posição (decisão do usuário em 06/10/2026):** o pop-up entra no fluxo
+  logo depois da referência (`display: block`, sem `position: absolute`) e
+  empurra o resto do parágrafo para baixo, em vez de cobrir o texto. Com
+  isso o `p { position: relative }` saiu. Descrito no
+  `TOOLTIP_TEST_REPORT.md` §3.10; a amostra da variante D em
+  `prototypes/` continua com a versão sobreposta.
 - **Alvos longos (decisão do usuário em 05/10/2026):**
   - até **200 palavras** no primeiro parágrafo, o alvo aparece inteiro e o
     link tem `aria-describedby` (`FULL_TIP_WORDS = 200` em `build_html.py`);

@@ -42,10 +42,7 @@ body {
 
 h1, h2, h3, .center { text-align: center; }
 
-p {
-  text-indent: 4%;
-  position: relative;  /* reference pop-ups are placed within the paragraph */
-}
+p { text-indent: 4%; }
 
 p.noindent { text-indent: 0; }
 
@@ -89,8 +86,9 @@ table.toc td { text-align: left; vertical-align: top; width: 20%; }
    part of the running text, so reading apps that ignore the
    stylesheet neither show nor speak it. The span is aria-hidden so
    the generated pop-up is not announced a second time.
-   The pop-up opens just below the line containing the reference and
-   spans the width of the paragraph, so it never runs off the screen. */
+   The pop-up opens right after the reference as a box the width of
+   the paragraph, pushing the rest of the text down instead of
+   covering it, so it never runs off the screen or hides the text. */
 a.ref {
   color: inherit;
   text-decoration: none;
@@ -107,11 +105,7 @@ a.ref:focus + .tip::after,
 .tip:hover::after {
   content: attr(data-tip);
   display: block;
-  position: absolute;
-  z-index: 10;
-  left: 0;
-  right: 0;
-  margin-top: 1.2em;  /* one line down, just below the reference */
+  margin: 0.3em 0 0.4em;
   padding: 0.5em 0.7em;
   background: #fffbe8;
   color: black;
